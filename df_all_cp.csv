@@ -1,0 +1,954 @@
+,Player,Nation,Pos_x,Squad,Age,MP,Starts,Min,90s,Gls,Ast,Height,Foot,Market Value,Year
+0,Patrick van Aanholt,NED,DF,Crystal Palace,28,29,29,2507,27.9,3,2,176.0,left,7700000.0,2019.0
+1,Max Aarons,ENG,DF,Norwich City,19,36,36,3240,36.0,0,1,171.0,right,22000000.0,2019.0
+2,Tammy Abraham,ENG,FW,Chelsea,21,34,25,2215,24.6,15,3,190.0,right,41800000.0,2019.0
+3,Adrián,ESP,GK,Liverpool,32,11,9,875,9.7,0,0,190.0,right,1100000.0,2019.0
+4,Sergio Agüero,ARG,FW,Manchester City,31,24,18,1452,16.1,16,3,173.0,right,19800000.0,2019.0
+5,Nathan Aké,NED,DF,Bournemouth,24,29,29,2503,27.8,2,2,180.0,left,35200000.0,2019.0
+6,Nathan Aké,NED,DF,Bournemouth,24,29,29,2503,27.8,2,2,180.0,left,30800000.0,2019.0
+7,Marc Albrighton,ENG,DF,Leicester City,29,20,9,867,9.6,0,3,175.0,right,4400000.0,2019.0
+8,Toby Alderweireld,BEL,DF,Tottenham,30,33,33,2957,32.9,2,2,187.0,right,12100000.0,2019.0
+9,Trent Alexander-Arnold,ENG,DF,Liverpool,20,38,35,3175,35.3,4,13,180.0,right,82500000.0,2019.0
+10,Alisson,BRA,GK,Liverpool,26,29,29,2543,28.3,0,1,191.0,right,66000000.0,2019.0
+11,Dele Alli,ENG,FW,Tottenham,23,25,21,1847,20.5,8,4,188.0,right,33000000.0,2019.0
+12,Miguel Almirón,PAR,FW,Newcastle Utd,25,36,35,3021,33.6,4,2,174.0,left,17600000.0,2019.0
+13,Marcos Alonso,ESP,DF,Chelsea,28,18,15,1430,15.9,4,2,189.0,left,13200000.0,2019.0
+14,Steven Alzate,COL,DF,Brighton,20,19,12,1188,13.2,0,0,180.0,right,6600000.0,2019.0
+15,Ibrahim Amadou,FRA,MF,Norwich City,26,11,8,759,8.4,0,0,183.0,right,6050000.0,2019.0
+16,Felipe Anderson,BRA,FW,West Ham,26,25,20,1497,16.6,1,4,175.0,right,11000000.0,2019.0
+17,Florin Andone,ROU,FW,Brighton,26,3,1,73,0.8,1,0,180.0,right,2200000.0,2019.0
+18,Michail Antonio,JAM,FW,West Ham,29,24,19,1768,19.6,10,3,180.0,right,13200000.0,2019.0
+19,Stuart Armstrong,SCO,MF,Southampton,27,30,19,1715,19.1,5,3,183.0,right,8800000.0,2019.0
+20,Kepa Arrizabalaga,ESP,GK,Chelsea,24,33,33,2970,33.0,0,0,186.0,right,14300000.0,2019.0
+21,Christian Atsu,GHA,MF,Newcastle Utd,27,19,6,749,8.3,0,3,165.0,left,1650000.0,2019.0
+22,Pierre-Emerick Aubameyang,GAB,FW,Arsenal,30,36,35,3136,34.8,22,3,187.0,right,27500000.0,2019.0
+23,Serge Aurier,CIV,DF,Tottenham,26,33,31,2700,30.0,1,5,176.0,right,22000000.0,2019.0
+24,Jordan Ayew,GHA,MF,Crystal Palace,27,37,37,3148,35.0,9,2,182.0,right,8800000.0,2019.0
+25,César Azpilicueta,ESP,DF,Chelsea,29,36,36,3229,35.9,2,6,178.0,right,14300000.0,2019.0
+26,Eric Bailly,CIV,DF,Manchester Utd,25,4,1,150,1.7,0,0,187.0,right,16500000.0,2019.0
+27,Fabián Balbuena,PAR,DF,West Ham,27,17,13,1177,13.1,1,0,188.0,right,5500000.0,2019.0
+28,George Baldock,ENG,DF,Sheffield Utd,26,38,38,3420,38.0,2,3,178.0,right,5500000.0,2019.0
+29,Phil Bardsley,SCO,DF,Burnley,34,21,21,1890,21.0,0,1,180.0,right,330000.0,2019.0
+30,Ross Barkley,ENG,MF,Chelsea,25,21,13,1103,12.3,1,4,185.0,right,22000000.0,2019.0
+31,Ross Barkley,ENG,MF,Chelsea,25,21,13,1103,12.3,1,4,185.0,right,22000000.0,2019.0
+32,Ashley Barnes,ENG,FW,Burnley,29,19,17,1352,15.0,6,0,186.0,right,3850000.0,2019.0
+33,Harvey Barnes,ENG,FW,Leicester City,21,36,24,2083,23.1,6,8,182.0,right,38500000.0,2019.0
+34,Chris Basham,ENG,DF,Sheffield Utd,31,38,38,3242,36.0,0,1,190.0,right,2200000.0,2019.0
+35,Michy Batshuayi,BEL,FW,Chelsea,25,16,1,239,2.7,1,1,185.0,right,11000000.0,2019.0
+36,Michy Batshuayi,BEL,FW,Chelsea,25,16,1,239,2.7,1,1,185.0,right,11000000.0,2019.0
+37,Jan Bednarek,POL,DF,Southampton,23,34,34,3057,34.0,1,1,189.0,right,27500000.0,2019.0
+38,Héctor Bellerín,ESP,DF,Arsenal,24,15,13,1158,12.9,1,0,178.0,right,27500000.0,2019.0
+39,Christian Benteke,BEL,FW,Crystal Palace,28,24,13,1261,14.0,2,1,190.0,right,9900000.0,2019.0
+40,Sander Berge,NOR,MF,Sheffield Utd,21,14,12,943,10.5,1,1,195.0,right,19800000.0,2019.0
+41,Steven Bergwijn,NED,MF,Tottenham,21,14,8,704,7.8,3,1,178.0,right,24200000.0,2019.0
+42,Bernard,BRA,FW,Everton,26,27,15,1280,14.2,3,2,164.0,right,13200000.0,2019.0
+43,Bernardo,BRA,DF,Brighton,24,14,7,679,7.5,0,0,186.0,left,4400000.0,2019.0
+44,Ryan Bertrand,ENG,DF,Southampton,29,32,31,2742,30.5,1,1,179.0,left,8800000.0,2019.0
+45,Philip Billing,DEN,MF,Bournemouth,23,34,29,2530,28.1,1,1,193.0,left,15950000.0,2019.0
+46,Yves Bissouma,MLI,MF,Brighton,22,22,15,1259,14.0,1,0,182.0,right,27500000.0,2019.0
+47,Willy Boly,CIV,DF,Wolves,28,22,22,1979,22.0,0,1,195.0,right,15400000.0,2019.0
+48,Jarrod Bowen,ENG,FW,West Ham,22,13,11,917,10.2,1,4,175.0,left,33000000.0,2019.0
+49,Robbie Brady,IRL,MF,Burnley,27,17,5,454,5.0,1,2,176.0,left,3300000.0,2019.0
+50,Jarrad Branthwaite,ENG,DF,Everton,17,4,2,300,3.3,0,0,195.0,left,3300000.0,2019.0
+51,David Brooks,WAL,MF,Bournemouth,22,9,8,506,5.6,1,0,173.0,left,26400000.0,2019.0
+52,Josh Brownhill,ENG,MF,Burnley,23,10,9,805,8.9,0,0,179.0,right,7700000.0,2019.0
+53,Dan Burn,ENG,DF,Brighton,27,34,33,2880,32.0,0,0,201.0,left,5500000.0,2019.0
+54,Sam Byram,ENG,DF,Norwich City,25,17,15,1293,14.4,0,0,183.0,right,3080000.0,2019.0
+55,Willy Caballero,ARG,GK,Chelsea,37,5,5,450,5.0,0,0,186.0,right,275000.0,2019.0
+56,Gary Cahill,ENG,DF,Crystal Palace,33,25,25,2167,24.1,0,1,193.0,right,1650000.0,2019.0
+57,Dominic Calvert-Lewin,ENG,FW,Everton,22,36,30,2626,29.2,13,1,189.0,right,49500000.0,2019.0
+58,João Cancelo,POR,DF,Manchester City,25,17,13,1208,13.4,0,0,182.0,right,60500000.0,2019.0
+59,Todd Cantwell,ENG,MF,Norwich City,21,37,30,2489,27.7,6,2,180.0,right,22000000.0,2019.0
+60,Étienne Capoue,FRA,MF,Watford,31,30,30,2627,29.2,0,3,189.0,right,5720000.0,2019.0
+61,Andy Carroll,ENG,FW,Newcastle Utd,30,19,4,632,7.0,0,4,193.0,left,1650000.0,2019.0
+62,Craig Cathcart,NIR,DF,Watford,30,29,28,2488,27.6,0,0,189.0,right,4400000.0,2019.0
+63,Dani Ceballos,ESP,MF,Arsenal,22,24,18,1692,18.8,0,2,179.0,right,29700000.0,2019.0
+64,Nathaniel Chalobah,ENG,MF,Watford,24,22,10,930,10.3,0,1,185.0,right,5280000.0,2019.0
+65,Calum Chambers,ENG,DF,Arsenal,24,14,13,1102,12.2,1,1,182.0,right,13200000.0,2019.0
+66,Ben Chilwell,ENG,DF,Leicester City,22,27,27,2373,26.4,3,3,180.0,left,49500000.0,2019.0
+67,Hamza Choudhury,ENG,MF,Leicester City,21,20,10,893,9.9,1,1,178.0,right,7700000.0,2019.0
+68,Andreas Christensen,DEN,DF,Chelsea,23,21,21,1751,19.5,0,0,188.0,right,33000000.0,2019.0
+69,Ciaran Clark,IRL,DF,Newcastle Utd,29,14,14,1186,13.2,2,0,188.0,left,3300000.0,2019.0
+70,Tom Cleverley,ENG,MF,Watford,29,18,11,971,10.8,1,0,175.0,right,5280000.0,2019.0
+71,Conor Coady,ENG,DF,Wolves,26,38,38,3420,38.0,0,0,185.0,right,27500000.0,2019.0
+72,Aaron Connolly,IRL,FW,Brighton,19,24,14,1258,14.0,3,1,175.0,right,7700000.0,2019.0
+73,Lewis Cook,ENG,MF,Bournemouth,22,27,14,1352,15.0,0,0,175.0,right,17600000.0,2019.0
+74,Steve Cook,ENG,DF,Bournemouth,28,29,28,2428,27.0,1,0,185.0,right,10450000.0,2019.0
+75,Jack Cork,ENG,MF,Burnley,30,30,30,2613,29.0,0,0,185.0,right,5500000.0,2019.0
+76,Aaron Cresswell,ENG,DF,West Ham,29,31,31,2727,30.3,3,0,170.0,left,5500000.0,2019.0
+77,Patrick Cutrone,ITA,FW,Wolves,21,12,3,297,3.3,2,0,183.0,right,9900000.0,2019.0
+78,Diogo Dalot,POR,MF,Manchester Utd,20,4,1,67,0.7,0,0,183.0,right,11000000.0,2019.0
+79,Charlie Daniels,ENG,DF,Bournemouth,32,2,2,126,1.4,0,0,178.0,left,1760000.0,2019.0
+80,Scott Dann,ENG,DF,Crystal Palace,32,16,14,1266,14.1,0,1,194.0,right,1650000.0,2019.0
+81,Ben Davies,WAL,DF,Tottenham,26,18,16,1431,15.9,0,0,185.0,left,3300000.0,2019.0
+82,Ben Davies,WAL,DF,Tottenham,26,18,16,1431,15.9,0,0,181.0,left,17600000.0,2019.0
+83,Tom Davies,ENG,MF,Everton,21,30,23,2027,22.5,1,0,180.0,right,19800000.0,2019.0
+84,Keinan Davis,ENG,FW,Aston Villa,21,18,4,548,6.1,0,0,189.0,left,3300000.0,2019.0
+85,Craig Dawson,ENG,DF,Watford,29,29,26,2361,26.2,2,0,188.0,right,5500000.0,2019.0
+86,Craig Dawson,ENG,DF,Watford,29,29,26,2361,26.2,2,0,188.0,right,5280000.0,2019.0
+87,Kevin De Bruyne,BEL,MF,Manchester City,28,35,32,2791,31.0,13,20,181.0,right,110000000.0,2019.0
+88,Troy Deeney,ENG,FW,Watford,31,27,26,2225,24.7,10,2,184.0,right,7150000.0,2019.0
+89,Fabian Delph,ENG,MF,Everton,29,16,13,1190,13.2,0,0,174.0,left,3850000.0,2019.0
+90,Leander Dendoncker,BEL,DF,Wolves,24,38,32,2795,31.1,4,0,188.0,right,33000000.0,2019.0
+91,Gerard Deulofeu,ESP,FW,Watford,25,28,25,2098,23.3,4,5,177.0,right,22000000.0,2019.0
+92,Eric Dier,ENG,MF,Tottenham,25,19,15,1344,14.9,0,2,188.0,right,24200000.0,2019.0
+93,Lucas Digne,FRA,DF,Everton,26,35,35,3030,33.7,0,7,178.0,left,38500000.0,2019.0
+94,Virgil van Dijk,NED,DF,Liverpool,28,38,38,3420,38.0,5,1,193.0,right,60500000.0,2019.0
+95,Issa Diop,FRA,DF,West Ham,22,32,31,2766,30.7,3,1,194.0,right,19800000.0,2019.0
+96,Moussa Djenepo,MLI,DF,Southampton,21,18,10,928,10.3,2,2,177.0,right,14300000.0,2019.0
+97,Matt Doherty,IRL,DF,Wolves,27,36,32,2839,31.5,4,3,185.0,right,17600000.0,2019.0
+98,Abdoulaye Doucouré,FRA,MF,Watford,26,37,36,3156,35.1,4,2,183.0,right,27500000.0,2019.0
+99,Abdoulaye Doucouré,FRA,MF,Watford,26,37,36,3156,35.1,4,2,183.0,right,22000000.0,2019.0
+100,Ondrej Duda,SVK,MF,Norwich City,24,10,9,724,8.0,0,0,181.0,right,11550000.0,2019.0
+101,Shane Duffy,IRL,DF,Brighton,27,19,12,1238,13.8,1,0,193.0,right,5500000.0,2019.0
+102,Paul Dummett,WAL,DF,Newcastle Utd,27,16,14,1228,13.6,0,0,183.0,left,3300000.0,2019.0
+103,Lewis Dunk,ENG,DF,Brighton,27,36,36,3230,35.9,3,3,192.0,right,27500000.0,2019.0
+104,Ederson,BRA,GK,Manchester City,25,35,35,3071,34.1,0,0,188.0,left,55000000.0,2019.0
+105,John Egan,IRL,DF,Sheffield Utd,26,36,36,3187,35.4,2,0,185.0,right,9900000.0,2019.0
+106,Harvey Elliott,ENG,DF,Liverpool,16,2,0,8,0.1,0,0,170.0,left,16500000.0,2019.0
+107,Ahmed Elmohamady,EGY,DF,Aston Villa,31,18,11,1031,11.5,1,1,182.0,right,1650000.0,2019.0
+108,Björn Engels,BEL,DF,Aston Villa,24,17,15,1447,16.1,1,0,194.0,right,3300000.0,2019.0
+109,Jonny Evans,NIR,DF,Leicester City,31,38,38,3383,37.6,1,1,188.0,both,7700000.0,2019.0
+110,Fabinho,BRA,MF,Liverpool,25,28,22,2079,23.1,2,3,188.0,right,66000000.0,2019.0
+111,Ralf Fährmann,GER,GK,Norwich City,30,1,1,21,0.2,0,0,197.0,right,1760000.0,2019.0
+112,Akin Famewo,ENG,MF,Norwich City,20,1,0,1,0.0,0,0,188.0,left,28000.0,2019.0
+113,Kiko Femenía,ESP,DF,Watford,28,28,26,2237,24.9,0,0,171.0,right,5280000.0,2019.0
+114,Bruno Fernandes,POR,MF,Manchester Utd,24,14,14,1186,13.2,8,7,179.0,right,99000000.0,2019.0
+115,Gedson Fernandes,POR,DF,Tottenham,20,7,0,68,0.8,0,0,182.0,right,13750000.0,2019.0
+116,Federico Fernández,ARG,DF,Newcastle Utd,30,32,29,2620,29.1,2,2,190.0,right,3300000.0,2019.0
+117,Fernandinho,BRA,DF,Manchester City,34,30,26,2397,26.6,0,1,179.0,right,2200000.0,2019.0
+118,Roberto Firmino,BRA,FW,Liverpool,27,38,34,2988,33.2,9,8,181.0,right,55000000.0,2019.0
+119,John Fleck,SCO,MF,Sheffield Utd,27,30,28,2516,28.0,5,2,169.0,left,5500000.0,2019.0
+120,Phil Foden,ENG,MF,Manchester City,19,23,9,901,10.0,5,2,171.0,left,88000000.0,2019.0
+121,Pablo Fornals,ESP,FW,West Ham,23,36,24,2172,24.1,2,5,178.0,right,19800000.0,2019.0
+122,Ben Foster,ENG,GK,Watford,36,38,38,3420,38.0,0,0,193.0,left,1320000.0,2019.0
+123,Timothy Fosu-Mensah,NED,DF,Manchester Utd,21,3,2,136,1.5,0,0,185.0,right,4400000.0,2019.0
+124,Dimitri Foulquier,FRA,MF,Watford,26,3,1,59,0.7,0,0,183.0,right,2200000.0,2019.0
+125,Simon Francis,ENG,DF,Bournemouth,34,15,10,969,10.8,0,0,191.0,right,880000.0,2019.0
+126,Ryan Fraser,SCO,FW,Bournemouth,25,28,21,2067,23.0,1,4,163.0,right,11000000.0,2019.0
+127,Ryan Fraser,SCO,FW,Bournemouth,25,28,21,2067,23.0,1,4,163.0,right,19250000.0,2019.0
+128,Fred,BRA,MF,Manchester Utd,26,29,23,2163,24.0,0,0,169.0,left,24200000.0,2019.0
+129,Ryan Fredericks,ENG,DF,West Ham,26,27,25,2237,24.9,0,3,181.0,right,2750000.0,2019.0
+130,Luke Freeman,ENG,MF,Sheffield Utd,27,11,3,366,4.1,0,0,176.0,left,2200000.0,2019.0
+131,Christian Fuchs,AUT,DF,Leicester City,33,11,8,772,8.6,0,0,187.0,left,880000.0,2019.0
+132,Eric García,ESP,DF,Manchester City,18,13,8,793,8.8,0,0,182.0,right,22000000.0,2019.0
+133,Dwight Gayle,ENG,FW,Newcastle Utd,28,20,10,850,9.4,4,2,174.0,right,4400000.0,2019.0
+134,Paulo Gazzaniga,ARG,GK,Tottenham,27,18,17,1613,17.9,0,0,196.0,right,3300000.0,2019.0
+135,Jean-Philippe Gbamin,CIV,MF,Everton,23,2,1,136,1.5,0,0,186.0,right,16500000.0,2019.0
+136,David de Gea,ESP,GK,Manchester Utd,28,38,38,3420,38.0,0,0,189.0,right,19800000.0,2019.0
+137,Anwar El Ghazi,NED,MF,Aston Villa,24,34,26,2051,22.8,4,4,189.0,right,14300000.0,2019.0
+138,Morgan Gibbs-White,ENG,FW,Wolves,19,7,1,129,1.4,0,0,178.0,right,7700000.0,2019.0
+139,Billy Gilmour,SCO,MF,Chelsea,18,6,2,194,2.2,0,0,170.0,right,11000000.0,2019.0
+140,Olivier Giroud,FRA,FW,Chelsea,32,18,12,993,11.0,8,0,193.0,left,4400000.0,2019.0
+141,Ben Godfrey,ENG,DF,Norwich City,21,30,30,2644,29.4,0,0,186.0,right,27500000.0,2019.0
+142,Ben Godfrey,ENG,DF,Norwich City,21,30,30,2644,29.4,0,0,186.0,right,12650000.0,2019.0
+143,André Gomes,POR,MF,Everton,26,19,17,1458,16.2,0,1,188.0,right,22000000.0,2019.0
+144,Joe Gomez,ENG,DF,Liverpool,22,28,22,2004,22.3,0,0,188.0,right,33000000.0,2019.0
+145,Anthony Gordon,ENG,FW,Everton,18,11,4,440,4.9,0,1,182.0,right,5500000.0,2019.0
+146,Dan Gosling,ENG,MF,Bournemouth,29,24,14,1264,14.0,3,1,180.0,right,2200000.0,2019.0
+147,Andre Gray,JAM,FW,Watford,28,23,7,755,8.4,2,0,178.0,right,10450000.0,2019.0
+148,Demarai Gray,ENG,FW,Leicester City,23,21,3,622,6.9,2,3,183.0,right,8800000.0,2019.0
+149,Jack Grealish,ENG,MF,Aston Villa,23,36,36,3233,35.9,8,6,180.0,right,71500000.0,2019.0
+150,Mason Greenwood,ENG,FW,Manchester Utd,17,31,12,1320,14.7,10,1,181.0,both,55000000.0,2019.0
+151,Pascal Groß,GER,MF,Brighton,28,29,22,1796,20.0,2,4,181.0,right,7700000.0,2019.0
+152,Vicente Guaita,ESP,GK,Crystal Palace,32,35,35,3150,35.0,0,0,190.0,right,2200000.0,2019.0
+153,Angus Gunn,ENG,GK,Southampton,23,10,10,900,10.0,0,0,196.0,right,3300000.0,2019.0
+154,Sébastien Haller,CIV,FW,West Ham,25,32,24,2266,25.2,7,1,190.0,right,29700000.0,2019.0
+155,Grant Hanley,SCO,DF,Norwich City,27,15,14,1262,14.0,0,0,188.0,right,2200000.0,2019.0
+156,Kortney Hause,ENG,DF,Aston Villa,24,18,17,1545,17.2,1,0,191.0,left,5500000.0,2019.0
+157,Isaac Hayden,ENG,MF,Newcastle Utd,24,29,26,2223,24.7,1,2,186.0,right,11000000.0,2019.0
+158,Tom Heaton,ENG,GK,Aston Villa,33,20,20,1794,19.9,0,0,188.0,right,1100000.0,2019.0
+159,Dean Henderson,ENG,GK,Sheffield Utd,22,36,36,3240,36.0,0,0,188.0,right,24200000.0,2019.0
+160,Jordan Henderson,ENG,MF,Liverpool,29,30,26,2238,24.9,4,5,187.0,right,22000000.0,2019.0
+161,Jeff Hendrick,IRL,MF,Burnley,27,24,22,1931,21.5,2,2,185.0,right,9900000.0,2019.0
+162,Wayne Hennessey,WAL,GK,Crystal Palace,32,3,3,270,3.0,0,0,197.0,right,1100000.0,2019.0
+163,Onel Hernández,CUB,MF,Norwich City,26,26,14,1384,15.4,1,2,172.0,right,3520000.0,2019.0
+164,Rob Holding,ENG,DF,Arsenal,23,8,6,581,6.5,0,0,189.0,right,19800000.0,2019.0
+165,Mason Holgate,ENG,DF,Everton,22,27,24,2054,22.8,0,3,187.0,right,22000000.0,2019.0
+166,Conor Hourihane,IRL,MF,Aston Villa,28,27,18,1534,17.0,3,5,181.0,left,3850000.0,2019.0
+167,Callum Hudson-Odoi,ENG,FW,Chelsea,18,22,7,863,9.6,1,5,177.0,right,35200000.0,2019.0
+168,Will Hughes,ENG,FW,Watford,24,30,27,2252,25.0,1,1,185.0,left,15950000.0,2019.0
+169,Jordon Ibe,ENG,DF,Bournemouth,23,2,0,50,0.6,0,0,176.0,right,5280000.0,2019.0
+170,Adam Idah,IRL,MF,Norwich City,18,12,1,228,2.5,0,0,190.0,right,990000.0,2019.0
+171,Odion Ighalo,NGA,FW,Manchester Utd,30,11,0,101,1.1,0,0,181.0,right,3850000.0,2019.0
+172,Kelechi Iheanacho,NGA,MF,Leicester City,22,20,12,960,10.7,5,3,185.0,left,22000000.0,2019.0
+173,Danny Ings,ENG,FW,Southampton,27,38,32,2804,31.2,22,2,178.0,right,24200000.0,2019.0
+174,Alex Iwobi,NGA,FW,Everton,23,25,19,1596,17.7,1,0,183.0,right,24200000.0,2019.0
+175,Phil Jagielka,ENG,DF,Sheffield Utd,36,6,2,244,2.7,0,0,180.0,right,275000.0,2019.0
+176,Alireza Jahanbakhsh,IRN,MF,Brighton,25,10,3,311,3.5,2,0,180.0,right,5500000.0,2019.0
+177,Daniel James,WAL,FW,Manchester Utd,21,33,26,2287,25.4,3,6,170.0,right,19800000.0,2019.0
+178,Matty James,ENG,MF,Leicester City,28,1,0,6,0.1,0,0,181.0,right,1100000.0,2019.0
+179,Reece James,ENG,DF,Chelsea,19,24,16,1515,16.8,0,2,180.0,right,44000000.0,2019.0
+180,Daryl Janmaat,NED,DF,Watford,30,8,7,607,6.7,0,1,185.0,right,4400000.0,2019.0
+181,Gabriel Jesus,BRA,FW,Manchester City,22,34,21,2030,22.6,14,7,175.0,right,66000000.0,2019.0
+182,Raúl Jiménez,MEX,FW,Wolves,28,38,37,3236,36.0,17,6,188.0,right,30800000.0,2019.0
+183,Joelinton,BRA,FW,Newcastle Utd,22,38,32,2683,29.8,2,2,186.0,right,18700000.0,2019.0
+184,Ben Johnson,ENG,DF,West Ham,19,3,3,270,3.0,0,0,175.0,right,3300000.0,2019.0
+185,Curtis Jones,ENG,MF,Liverpool,18,6,1,126,1.4,1,0,185.0,right,33000000.0,2019.0
+186,Phil Jones,ENG,DF,Manchester Utd,27,2,2,135,1.5,0,0,185.0,right,5500000.0,2019.0
+187,Jorginho,ITA,MF,Chelsea,27,31,27,2379,26.4,4,2,180.0,right,44000000.0,2019.0
+188,Diogo Jota,POR,MF,Wolves,22,34,27,2284,25.4,7,1,178.0,right,49500000.0,2019.0
+189,Diogo Jota,POR,MF,Wolves,22,34,27,2284,25.4,7,1,178.0,right,49500000.0,2019.0
+190,James Justin,ENG,DF,Leicester City,21,13,11,1012,11.2,0,1,183.0,right,18700000.0,2019.0
+191,Christian Kabasele,BEL,DF,Watford,28,27,26,2250,25.0,0,2,187.0,right,7150000.0,2019.0
+192,Harry Kane,ENG,FW,Tottenham,26,29,29,2587,28.7,18,2,188.0,right,132000000.0,2019.0
+193,N'Golo Kanté,FRA,MF,Chelsea,28,22,20,1732,19.2,3,0,168.0,right,60500000.0,2019.0
+194,Moise Kean,ITA,FW,Everton,19,29,6,852,9.5,2,2,183.0,right,38500000.0,2019.0
+195,Michael Keane,ENG,DF,Everton,26,31,28,2559,28.4,2,0,188.0,right,27500000.0,2019.0
+196,Naby Keïta,GUI,MF,Liverpool,24,18,9,815,9.1,2,3,172.0,right,35200000.0,2019.0
+197,Lloyd Kelly,ENG,DF,Bournemouth,20,8,7,639,7.1,0,0,190.0,left,8800000.0,2019.0
+198,Martin Kelly,ENG,DF,Crystal Palace,29,19,17,1549,17.2,0,1,191.0,right,1650000.0,2019.0
+199,Max Kilman,ENG,DF,Wolves,22,3,2,185,2.1,0,0,192.0,left,4950000.0,2019.0
+200,Joshua King,NOR,MF,Bournemouth,27,26,24,2011,22.3,6,4,187.0,right,8800000.0,2019.0
+201,Joshua King,NOR,MF,Bournemouth,27,26,24,2011,22.3,6,4,187.0,right,17600000.0,2019.0
+202,Timm Klose,SUI,DF,Norwich City,31,7,7,585,6.5,0,0,195.0,right,2200000.0,2019.0
+203,Ezri Konsa,ENG,DF,Aston Villa,21,25,24,2039,22.7,1,2,183.0,right,27500000.0,2019.0
+204,Cheikhou Kouyaté,SEN,DF,Crystal Palace,29,35,29,2528,28.1,1,1,189.0,right,6600000.0,2019.0
+205,Emil Krafth,SWE,DF,Newcastle Utd,24,17,11,1020,11.3,0,1,184.0,right,3850000.0,2019.0
+206,Tim Krul,NED,GK,Norwich City,31,36,36,3240,36.0,0,0,193.0,left,4400000.0,2019.0
+207,Alexandre Lacazette,FRA,FW,Arsenal,28,30,22,1874,20.8,10,4,176.0,right,30800000.0,2019.0
+208,Adam Lallana,ENG,FW,Liverpool,31,15,3,382,4.2,1,1,172.0,both,4400000.0,2019.0
+209,Tariq Lamptey,ENG,DF,Chelsea,18,1,0,32,0.4,0,0,163.0,right,19800000.0,2019.0
+210,Tariq Lamptey,ENG,DF,Brighton,18,8,7,588,6.5,0,1,163.0,right,19800000.0,2019.0
+211,Henri Lansbury,ENG,FW,Aston Villa,28,10,2,195,2.2,0,0,183.0,right,1100000.0,2019.0
+212,Manuel Lanzini,ARG,FW,West Ham,26,24,14,1379,15.3,0,2,167.0,right,11000000.0,2019.0
+213,Aymeric Laporte,ESP,DF,Manchester City,25,15,14,1097,12.2,1,0,189.0,left,49500000.0,2019.0
+214,Jamaal Lascelles,ENG,DF,Newcastle Utd,25,24,24,2076,23.1,1,0,188.0,right,14300000.0,2019.0
+215,Moritz Leitner,GER,MF,Norwich City,26,9,7,685,7.6,0,0,178.0,right,2640000.0,2019.0
+216,Bernd Leno,GER,GK,Arsenal,27,30,30,2649,29.4,0,0,190.0,right,24200000.0,2019.0
+217,Jefferson Lerma,COL,MF,Bournemouth,24,33,31,2703,30.0,1,2,179.0,right,22000000.0,2019.0
+218,Jamal Lewis,NIR,DF,Norwich City,21,28,25,2304,25.6,1,0,178.0,left,16500000.0,2019.0
+219,Jamal Lewis,NIR,DF,Norwich City,21,28,25,2304,25.6,1,0,178.0,left,12100000.0,2019.0
+220,Victor Lindelöf,SWE,DF,Manchester Utd,25,35,35,3092,34.4,1,0,187.0,right,26400000.0,2019.0
+221,Jesse Lingard,ENG,FW,Manchester Utd,26,22,9,935,10.4,1,0,174.0,right,24200000.0,2019.0
+222,Jesse Lingard,ENG,FW,Manchester Utd,26,22,9,935,10.4,1,0,174.0,right,24200000.0,2019.0
+223,Hugo Lloris,FRA,GK,Tottenham,32,21,21,1807,20.1,0,0,188.0,left,9900000.0,2019.0
+224,Giovani Lo Celso,ARG,FW,Tottenham,23,28,15,1492,16.6,0,2,177.0,left,29700000.0,2019.0
+225,Ruben Loftus-Cheek,ENG,FW,Chelsea,23,7,2,208,2.3,0,1,190.0,right,19800000.0,2019.0
+226,Ruben Loftus-Cheek,ENG,FW,Chelsea,23,7,2,208,2.3,0,1,190.0,right,19800000.0,2019.0
+227,Kevin Long,IRL,DF,Burnley,28,8,6,564,6.3,0,0,188.0,right,1100000.0,2019.0
+228,Shane Long,IRL,FW,Southampton,32,26,15,1395,15.5,2,2,180.0,both,1320000.0,2019.0
+229,Sean Longstaff,ENG,MF,Newcastle Utd,21,23,14,1378,15.3,1,1,181.0,right,16500000.0,2019.0
+230,Matthew Lowton,ENG,DF,Burnley,30,17,17,1530,17.0,0,1,180.0,right,2750000.0,2019.0
+231,David Luiz,BRA,DF,Arsenal,32,33,32,2809,31.2,2,1,189.0,right,4400000.0,2019.0
+232,Douglas Luiz,BRA,MF,Aston Villa,21,36,28,2612,29.0,3,2,177.0,right,38500000.0,2019.0
+233,John Lundstram,ENG,MF,Sheffield Utd,25,34,26,2458,27.3,5,3,181.0,right,7700000.0,2019.0
+234,Alexis Mac Allister,ARG,FW,Brighton,20,9,4,352,3.9,0,0,174.0,right,11000000.0,2019.0
+235,James Maddison,ENG,MF,Leicester City,22,31,29,2624,29.2,6,3,175.0,right,60500000.0,2019.0
+236,Harry Maguire,ENG,DF,Manchester Utd,26,38,38,3420,38.0,1,1,194.0,right,49500000.0,2019.0
+237,Riyad Mahrez,ALG,MF,Manchester City,28,33,21,1944,21.6,11,9,179.0,left,46200000.0,2019.0
+238,Ainsley Maitland-Niles,ENG,DF,Arsenal,21,20,15,1386,15.4,0,2,180.0,right,17600000.0,2019.0
+239,Ainsley Maitland-Niles,ENG,DF,Arsenal,21,20,15,1386,15.4,0,2,180.0,right,17600000.0,2019.0
+240,Sadio Mané,SEN,FW,Liverpool,27,35,31,2747,30.5,18,7,174.0,right,93500000.0,2019.0
+241,Javier Manquillo,ESP,DF,Newcastle Utd,25,21,18,1599,17.8,0,1,178.0,right,3300000.0,2019.0
+242,Solly March,ENG,FW,Brighton,25,19,11,1143,12.7,0,1,180.0,left,9900000.0,2019.0
+243,Pablo Marí,ESP,DF,Arsenal,25,2,2,113,1.3,0,0,193.0,left,7700000.0,2019.0
+244,Adrian Mariappa,JAM,DF,Watford,32,20,15,1513,16.8,0,0,179.0,right,1760000.0,2019.0
+245,Anthony Martial,FRA,FW,Manchester Utd,23,32,31,2624,29.2,17,6,181.0,right,49500000.0,2019.0
+246,David Martin,ENG,GK,West Ham,33,5,4,436,4.8,0,0,188.0,right,275000.0,2019.0
+247,Emiliano Martínez,ARG,GK,Arsenal,26,9,8,771,8.6,0,0,195.0,right,33000000.0,2019.0
+248,Emiliano Martínez,ARG,GK,Arsenal,26,9,8,771,8.6,0,0,195.0,right,33000000.0,2019.0
+249,Adam Masina,MAR,DF,Watford,25,26,20,1821,20.2,1,0,191.0,left,6050000.0,2019.0
+250,Arthur Masuaku,COD,DF,West Ham,25,17,10,937,10.4,0,1,179.0,left,7700000.0,2019.0
+251,Juan Mata,ESP,FW,Manchester Utd,31,19,8,758,8.4,0,2,170.0,left,4400000.0,2019.0
+252,Neal Maupay,FRA,FW,Brighton,22,37,30,2766,30.7,10,3,173.0,right,22000000.0,2019.0
+253,James McArthur,SCO,MF,Crystal Palace,31,37,37,3090,34.3,0,3,178.0,both,2200000.0,2019.0
+254,Oliver McBurnie,SCO,FW,Sheffield Utd,23,36,24,2113,23.5,6,0,188.0,right,11000000.0,2019.0
+255,Alex McCarthy,ENG,GK,Southampton,29,28,28,2520,28.0,0,0,193.0,right,5500000.0,2019.0
+256,James McCarthy,IRL,MF,Crystal Palace,28,33,16,1680,18.7,0,0,180.0,right,3300000.0,2019.0
+257,John McGinn,SCO,MF,Aston Villa,24,28,27,2312,25.7,3,3,178.0,left,33000000.0,2019.0
+258,David McGoldrick,IRL,FW,Sheffield Utd,31,28,22,1815,20.2,2,2,184.0,right,1650000.0,2019.0
+259,Michael McGovern,NIR,GK,Norwich City,35,2,1,159,1.8,0,0,190.0,right,330000.0,2019.0
+260,Kenny McLean,SCO,MF,Norwich City,27,37,32,2968,33.0,1,1,180.0,left,3850000.0,2019.0
+261,Dwight McNeil,ENG,MF,Burnley,19,38,38,3338,37.1,2,6,183.0,left,24200000.0,2019.0
+262,Scott McTominay,SCO,MF,Manchester Utd,22,27,20,1772,19.7,4,1,191.0,right,38500000.0,2019.0
+263,Ben Mee,ENG,DF,Burnley,29,32,32,2880,32.0,1,1,180.0,left,6600000.0,2019.0
+264,Benjamin Mendy,FRA,DF,Manchester City,25,19,18,1492,16.6,0,2,185.0,left,22000000.0,2019.0
+265,Nampalys Mendy,SEN,MF,Leicester City,27,7,4,291,3.2,0,0,167.0,right,8800000.0,2019.0
+266,Chris Mepham,WAL,DF,Bournemouth,21,12,10,912,10.1,1,0,191.0,right,8800000.0,2019.0
+267,Max Meyer,GER,FW,Crystal Palace,23,17,6,655,7.3,0,0,173.0,right,1650000.0,2019.0
+268,James Milner,ENG,DF,Liverpool,33,22,9,937,10.4,2,2,175.0,right,3300000.0,2019.0
+269,Yerry Mina,COL,DF,Everton,24,29,25,2284,25.4,2,1,195.0,right,22000000.0,2019.0
+270,Takumi Minamino,JPN,MF,Liverpool,24,10,2,249,2.8,0,0,174.0,right,13200000.0,2019.0
+271,Takumi Minamino,JPN,MF,Liverpool,24,10,2,249,2.8,0,0,174.0,right,13200000.0,2019.0
+272,Tyrone Mings,ENG,DF,Aston Villa,26,33,33,2902,32.2,2,2,195.0,left,33000000.0,2019.0
+273,Tyrick Mitchell,ENG,DF,Crystal Palace,19,4,2,195,2.2,0,0,175.0,left,7700000.0,2019.0
+274,Simon Moore,ENG,GK,Sheffield Utd,29,2,2,180,2.0,0,0,191.0,right,440000.0,2019.0
+275,Wes Morgan,JAM,DF,Leicester City,35,11,4,436,4.8,0,0,185.0,right,440000.0,2019.0
+276,Mason Mount,ENG,FW,Chelsea,20,37,32,2867,31.9,7,5,180.0,right,82500000.0,2019.0
+277,Lucas Moura,BRA,MF,Tottenham,26,35,25,2242,24.9,4,4,172.0,right,27500000.0,2019.0
+278,Lys Mousset,FRA,FW,Sheffield Utd,23,30,11,1240,13.8,6,4,184.0,right,9900000.0,2019.0
+279,João Moutinho,POR,MF,Wolves,32,38,34,3108,34.5,1,6,170.0,right,4400000.0,2019.0
+280,Shkodran Mustafi,GER,DF,Arsenal,27,15,13,1207,13.4,0,1,184.0,right,2750000.0,2019.0
+281,Marvelous Nakamba,ZIM,MF,Aston Villa,25,29,19,1836,20.4,0,0,177.0,left,7700000.0,2019.0
+282,Wilfred Ndidi,NGA,MF,Leicester City,22,32,29,2674,29.7,2,1,183.0,right,66000000.0,2019.0
+283,Reiss Nelson,ENG,FW,Arsenal,19,17,7,631,7.0,1,0,175.0,right,9900000.0,2019.0
+284,Pedro Neto,POR,MF,Wolves,19,29,9,939,10.4,3,3,172.0,left,38500000.0,2019.0
+285,Rúben Neves,POR,MF,Wolves,22,38,35,3056,34.0,2,2,180.0,right,49500000.0,2019.0
+286,Eddie Nketiah,ENG,FW,Arsenal,20,13,7,633,7.0,2,0,180.0,right,17600000.0,2019.0
+287,Mark Noble,ENG,MF,West Ham,32,33,32,2674,29.7,4,3,180.0,right,2200000.0,2019.0
+288,Oliver Norwood,NIR,MF,Sheffield Utd,28,38,37,3090,34.3,1,1,175.0,right,5500000.0,2019.0
+289,Jack O'Connell,ENG,DF,Sheffield Utd,25,33,32,2916,32.4,0,1,191.0,left,5500000.0,2019.0
+290,Michael Obafemi,IRL,FW,Southampton,19,21,8,665,7.4,3,2,170.0,right,3300000.0,2019.0
+291,Angelo Ogbonna,ITA,DF,West Ham,31,31,31,2786,31.0,2,0,191.0,left,2750000.0,2019.0
+292,Divock Origi,BEL,FW,Liverpool,24,28,7,717,8.0,4,1,185.0,right,13200000.0,2019.0
+293,Ben Osborn,ENG,DF,Sheffield Utd,24,13,6,594,6.6,0,0,176.0,left,2200000.0,2019.0
+294,Nicolás Otamendi,ARG,DF,Manchester City,31,24,18,1715,19.1,2,0,183.0,right,8800000.0,2019.0
+295,Alex Oxlade-Chamberlain,ENG,FW,Liverpool,25,30,17,1485,16.5,4,1,175.0,right,19800000.0,2019.0
+296,Rui Patrício,POR,GK,Wolves,31,38,38,3420,38.0,0,0,190.0,left,11000000.0,2019.0
+297,João Pedro,BRA,MF,Watford,17,3,0,25,0.3,0,0,182.0,right,19800000.0,2019.0
+298,Nicolas Pépé,CIV,FW,Arsenal,24,31,22,2010,22.3,5,6,183.0,left,38500000.0,2019.0
+299,Ricardo Pereira,POR,DF,Leicester City,25,28,28,2520,28.0,3,2,175.0,right,33000000.0,2019.0
+300,Roberto Pereyra,ARG,MF,Watford,28,28,17,1648,18.3,3,0,182.0,both,9900000.0,2019.0
+301,Ayoze Pérez,ESP,FW,Leicester City,26,33,26,2004,22.3,8,4,178.0,right,19800000.0,2019.0
+302,Jordan Pickford,ENG,GK,Everton,25,38,38,3420,38.0,0,0,185.0,left,24200000.0,2019.0
+303,Brandon Pierrick,ENG,FW,Crystal Palace,17,2,0,15,0.2,0,0,182.0,right,275000.0,2019.0
+304,Erik Pieters,NED,MF,Burnley,30,24,21,1878,20.9,0,4,183.0,left,1650000.0,2019.0
+305,Daniel Podence,POR,MF,Wolves,23,9,3,289,3.2,1,0,165.0,right,27500000.0,2019.0
+306,Paul Pogba,FRA,MF,Manchester Utd,26,16,13,1204,13.4,1,3,191.0,both,66000000.0,2019.0
+307,Nick Pope,ENG,GK,Burnley,27,38,38,3420,38.0,0,0,198.0,right,16500000.0,2019.0
+308,Dennis Praet,BEL,MF,Leicester City,25,27,12,1134,12.6,1,2,181.0,right,19800000.0,2019.0
+309,Sebastian Prödl,AUT,DF,Watford,32,1,1,56,0.6,0,0,194.0,right,1320000.0,2019.0
+310,Davy Pröpper,NED,MF,Brighton,27,35,32,2829,31.4,1,2,185.0,right,8800000.0,2019.0
+311,Teemu Pukki,FIN,FW,Norwich City,29,36,33,2886,32.1,11,3,180.0,right,8800000.0,2019.0
+312,Christian Pulisic,USA,FW,Chelsea,20,25,19,1722,19.1,9,4,177.0,right,55000000.0,2019.0
+313,Ignacio Pussetto,ARG,DF,Watford,23,7,0,74,0.8,0,0,180.0,right,7150000.0,2019.0
+314,Domingos Quina,POR,MF,Watford,19,4,0,22,0.2,0,0,173.0,right,3520000.0,2019.0
+315,Aaron Ramsdale,ENG,GK,Bournemouth,21,37,37,3330,37.0,0,1,191.0,right,13200000.0,2019.0
+316,Aaron Ramsdale,ENG,GK,Bournemouth,21,37,37,3330,37.0,0,1,191.0,right,13750000.0,2019.0
+317,Darren Randolph,IRL,GK,West Ham,32,2,2,180,2.0,0,0,187.0,right,1650000.0,2019.0
+318,Marcus Rashford,ENG,FW,Manchester Utd,21,31,31,2643,29.4,17,7,185.0,right,93500000.0,2019.0
+319,Nathan Redmond,ENG,FW,Southampton,25,32,32,2762,30.7,4,4,173.0,right,19800000.0,2019.0
+320,Declan Rice,ENG,MF,West Ham,20,38,38,3420,38.0,1,3,185.0,right,71500000.0,2019.0
+321,Richarlison,BRA,FW,Everton,22,36,36,3070,34.1,13,3,184.0,right,60500000.0,2019.0
+322,Diego Rico,ESP,DF,Bournemouth,26,27,27,2332,25.9,0,4,183.0,left,8800000.0,2019.0
+323,Matt Ritchie,SCO,MF,Newcastle Utd,29,18,14,1315,14.6,2,1,173.0,left,3300000.0,2019.0
+324,Patrick Roberts,ENG,MF,Norwich City,22,3,0,26,0.3,0,0,167.0,left,2200000.0,2019.0
+325,Patrick Roberts,ENG,MF,Norwich City,22,3,0,26,0.3,0,0,167.0,left,3080000.0,2019.0
+326,Andrew Robertson,SCO,DF,Liverpool,25,36,34,3111,34.6,2,12,178.0,left,71500000.0,2019.0
+327,Callum Robinson,IRL,MF,Sheffield Utd,24,16,9,676,7.5,1,1,178.0,right,6600000.0,2019.0
+328,Jack Robinson,ENG,DF,Sheffield Utd,25,6,6,504,5.6,0,0,180.0,left,2200000.0,2019.0
+329,Rodri,ESP,MF,Manchester City,23,35,29,2486,27.6,3,2,191.0,right,77000000.0,2019.0
+330,Jack Rodwell,ENG,MF,Sheffield Utd,28,1,0,16,0.2,0,0,188.0,right,880000.0,2019.0
+331,Oriol Romeu,ESP,MF,Southampton,27,30,20,1860,20.7,0,0,183.0,right,6600000.0,2019.0
+332,Danny Rose,ENG,DF,Tottenham,29,12,10,893,9.9,0,0,173.0,left,3300000.0,2019.0
+333,Danny Rose,ENG,DF,Newcastle Utd,29,11,10,863,9.6,0,0,173.0,left,3300000.0,2019.0
+334,Antonio Rüdiger,GER,DF,Chelsea,26,20,19,1710,19.0,2,0,190.0,right,30800000.0,2019.0
+335,Lukas Rupp,GER,MF,Norwich City,28,12,8,695,7.7,0,0,178.0,right,2640000.0,2019.0
+336,Mathew Ryan,AUS,GK,Brighton,27,38,38,3420,38.0,0,0,184.0,right,6600000.0,2019.0
+337,Mathew Ryan,AUS,GK,Brighton,27,38,38,3420,38.0,0,0,184.0,right,6600000.0,2019.0
+338,Allan Saint-Maximin,FRA,FW,Newcastle Utd,22,26,23,1863,20.7,3,4,173.0,right,33000000.0,2019.0
+339,Romain Saïss,MAR,DF,Wolves,29,33,31,2705,30.1,2,1,188.0,left,11000000.0,2019.0
+340,Bukayo Saka,ENG,FW,Arsenal,17,26,19,1753,19.5,1,5,178.0,left,71500000.0,2019.0
+341,Mamadou Sakho,FRA,DF,Crystal Palace,29,14,11,931,10.3,0,0,187.0,left,6600000.0,2019.0
+342,Mohamed Salah,EGY,FW,Liverpool,27,34,33,2876,32.0,19,10,175.0,left,110000000.0,2019.0
+343,Davinson Sánchez,COL,DF,Tottenham,23,29,27,2431,27.0,0,0,187.0,right,35200000.0,2019.0
+344,Fabian Schär,SUI,MF,Newcastle Utd,27,22,18,1672,18.6,2,0,186.0,right,9900000.0,2019.0
+345,Jeffrey Schlupp,GHA,MF,Crystal Palace,26,17,11,1036,11.5,3,1,178.0,left,9900000.0,2019.0
+346,Kasper Schmeichel,DEN,GK,Leicester City,32,38,38,3420,38.0,0,0,189.0,right,6600000.0,2019.0
+347,Ryan Sessegnon,ENG,DF,Tottenham,19,6,4,342,3.8,0,0,178.0,left,19800000.0,2019.0
+348,Xherdan Shaqiri,SUI,MF,Liverpool,27,7,2,185,2.1,1,0,169.0,left,13200000.0,2019.0
+349,Billy Sharp,ENG,FW,Sheffield Utd,33,25,10,1051,11.7,3,2,175.0,right,550000.0,2019.0
+350,Luke Shaw,ENG,DF,Manchester Utd,24,24,20,1733,19.3,0,0,178.0,left,38500000.0,2019.0
+351,Jonjo Shelvey,ENG,MF,Newcastle Utd,27,26,25,2119,23.5,6,2,184.0,right,14300000.0,2019.0
+352,Bernardo Silva,POR,MF,Manchester City,24,34,23,2030,22.6,6,7,173.0,left,77000000.0,2019.0
+353,Jack Simpson,ENG,DF,Bournemouth,22,4,1,241,2.7,0,0,190.0,left,1320000.0,2019.0
+354,Moussa Sissoko,FRA,MF,Tottenham,29,29,28,2452,27.2,2,1,187.0,right,11000000.0,2019.0
+355,Oliver Skipp,ENG,DF,Tottenham,18,7,1,77,0.9,0,0,175.0,right,11000000.0,2019.0
+356,Adam Smith,ENG,DF,Bournemouth,28,24,24,2055,22.8,0,1,174.0,right,7700000.0,2019.0
+357,Robert Snodgrass,SCO,FW,West Ham,31,24,17,1509,16.8,5,5,182.0,left,1650000.0,2019.0
+358,Robert Snodgrass,SCO,FW,West Ham,31,24,17,1509,16.8,5,5,182.0,left,1650000.0,2019.0
+359,Cédric Soares,POR,DF,Southampton,27,16,16,1306,14.5,0,1,171.0,right,6600000.0,2019.0
+360,Cédric Soares,POR,DF,Arsenal,27,5,3,249,2.8,1,0,171.0,right,6600000.0,2019.0
+361,Dominic Solanke,ENG,MF,Bournemouth,21,32,17,1651,18.3,3,1,186.0,right,13200000.0,2019.0
+362,Dennis Srbeny,GER,FW,Norwich City,25,8,0,47,0.5,1,0,190.0,right,880000.0,2019.0
+363,Jack Stacey,ENG,DF,Bournemouth,23,19,17,1549,17.2,0,2,180.0,right,3520000.0,2019.0
+364,Junior Stanislas,ENG,DF,Bournemouth,29,15,7,712,7.9,3,0,183.0,right,2200000.0,2019.0
+365,Jed Steer,ENG,GK,Aston Villa,26,1,1,7,0.1,0,0,183.0,left,880000.0,2019.0
+366,Dale Stephens,ENG,MF,Brighton,30,33,28,2530,28.1,0,1,185.0,right,2750000.0,2019.0
+367,Dale Stephens,ENG,MF,Brighton,30,33,28,2530,28.1,0,1,185.0,right,2750000.0,2019.0
+368,Jack Stephens,ENG,DF,Southampton,25,28,27,2451,27.2,1,3,185.0,right,5500000.0,2019.0
+369,Raheem Sterling,ENG,FW,Manchester City,24,33,30,2651,29.5,20,1,170.0,right,99000000.0,2019.0
+370,Enda Stevens,IRL,DF,Sheffield Utd,29,38,38,3345,37.2,2,4,183.0,left,3850000.0,2019.0
+371,Marco Stiepermann,GER,MF,Norwich City,28,24,14,1180,13.1,0,0,190.0,left,3520000.0,2019.0
+372,John Stones,ENG,DF,Manchester City,25,16,12,1122,12.5,0,0,188.0,right,33000000.0,2019.0
+373,Isaac Success,NGA,MF,Watford,23,5,0,70,0.8,0,0,182.0,right,3520000.0,2019.0
+374,Andrew Surman,ENG,MF,Bournemouth,32,5,2,235,2.6,0,0,178.0,left,1760000.0,2019.0
+375,Sam Surridge,ENG,MF,Bournemouth,21,4,0,27,0.3,0,0,190.0,right,495000.0,2019.0
+376,Japhet Tanganga,ENG,DF,Tottenham,20,6,6,525,5.8,0,0,184.0,right,8800000.0,2019.0
+377,Matt Targett,ENG,DF,Aston Villa,23,28,27,2291,25.5,1,2,183.0,left,18700000.0,2019.0
+378,James Tarkowski,ENG,DF,Burnley,26,38,38,3420,38.0,2,2,185.0,right,27500000.0,2019.0
+379,Charlie Taylor,ENG,DF,Burnley,25,24,22,1945,21.6,0,1,176.0,left,4400000.0,2019.0
+380,Neil Taylor,WAL,DF,Aston Villa,30,14,11,1091,12.1,0,0,176.0,left,1650000.0,2019.0
+381,Nathan Tella,ENG,FW,Southampton,20,1,0,3,0.0,0,0,173.0,right,2200000.0,2019.0
+382,Alexander Tettey,NOR,DF,Norwich City,33,30,28,2338,26.0,1,1,181.0,right,1760000.0,2019.0
+383,Luke Thomas,ENG,DF,Leicester City,18,3,3,267,3.0,0,1,181.0,left,5500000.0,2019.0
+384,Youri Tielemans,BEL,MF,Leicester City,22,37,32,2828,31.4,3,6,176.0,right,60500000.0,2019.0
+385,Kieran Tierney,SCO,DF,Arsenal,22,15,12,989,11.0,1,1,180.0,left,35200000.0,2019.0
+386,James Tomkins,ENG,DF,Crystal Palace,30,18,18,1582,17.6,1,1,192.0,right,2750000.0,2019.0
+387,Fikayo Tomori,ENG,DF,Chelsea,21,15,15,1291,14.3,1,0,184.0,right,30800000.0,2019.0
+388,Cenk Tosun,TUR,FW,Everton,28,5,2,291,3.2,1,0,183.0,right,5500000.0,2019.0
+389,Cenk Tosun,TUR,FW,Crystal Palace,28,5,2,177,2.0,1,0,183.0,right,5500000.0,2019.0
+390,Andros Townsend,ENG,MF,Crystal Palace,28,24,14,1294,14.4,1,1,181.0,left,7700000.0,2019.0
+391,Adama Traoré,ESP,MF,Wolves,23,37,27,2605,28.9,4,9,178.0,right,33000000.0,2019.0
+392,Mark Travers,IRL,GK,Bournemouth,20,1,1,90,1.0,0,0,191.0,right,275000.0,2019.0
+393,Leandro Trossard,BEL,MF,Brighton,24,31,22,2011,22.3,5,3,172.0,right,18700000.0,2019.0
+394,Tom Trybull,GER,MF,Norwich City,26,16,14,1130,12.6,0,0,181.0,right,3520000.0,2019.0
+395,Axel Tuanzebe,ENG,DF,Manchester Utd,21,5,2,189,2.1,0,0,185.0,right,8800000.0,2019.0
+396,Yan Valery,FRA,DF,Southampton,20,11,10,779,8.7,0,0,180.0,right,3300000.0,2019.0
+397,Jamie Vardy,ENG,FW,Leicester City,32,35,34,3033,33.7,23,5,179.0,right,7700000.0,2019.0
+398,Jannik Vestergaard,DEN,DF,Southampton,26,19,17,1497,16.6,1,0,199.0,both,19800000.0,2019.0
+399,Rúben Vinagre,POR,DF,Wolves,20,16,6,652,7.2,0,0,174.0,left,5500000.0,2019.0
+400,Jake Vokins,ENG,DF,Southampton,19,1,1,90,1.0,0,0,180.0,left,275000.0,2019.0
+401,Theo Walcott,ENG,FW,Everton,30,25,17,1287,14.3,2,3,175.0,both,5500000.0,2019.0
+402,Theo Walcott,ENG,FW,Everton,30,25,17,1287,14.3,2,3,175.0,both,5500000.0,2019.0
+403,Kyle Walker,ENG,DF,Manchester City,29,29,28,2392,26.6,1,4,183.0,right,30800000.0,2019.0
+404,Kyle Walker-Peters,ENG,DF,Southampton,22,10,7,703,7.8,0,0,173.0,right,19800000.0,2019.0
+405,Kyle Walker-Peters,ENG,DF,Tottenham,22,3,3,241,2.7,0,0,173.0,right,19800000.0,2019.0
+406,Aaron Wan-Bissaka,ENG,DF,Manchester Utd,21,35,34,3070,34.1,0,4,183.0,right,44000000.0,2019.0
+407,Joel Ward,ENG,DF,Crystal Palace,29,29,27,2382,26.5,0,0,186.0,right,2750000.0,2019.0
+408,James Ward-Prowse,ENG,DF,Southampton,24,38,38,3420,38.0,5,3,177.0,right,33000000.0,2019.0
+409,Adam Webster,ENG,DF,Brighton,24,31,31,2668,29.6,3,1,190.0,right,19800000.0,2019.0
+410,Danny Welbeck,ENG,MF,Watford,28,18,8,822,9.1,2,0,185.0,right,4400000.0,2019.0
+411,Danny Welbeck,ENG,MF,Watford,28,18,8,822,9.1,2,0,185.0,right,6050000.0,2019.0
+412,Ashley Westwood,ENG,MF,Burnley,29,35,35,3150,35.0,2,6,174.0,right,5500000.0,2019.0
+413,Connor Wickham,ENG,MF,Crystal Palace,26,6,0,96,1.1,1,1,189.0,right,1100000.0,2019.0
+414,Georginio Wijnaldum,NED,MF,Liverpool,28,37,35,2935,32.6,4,0,175.0,right,33000000.0,2019.0
+415,Brandon Williams,ENG,DF,Manchester Utd,18,17,11,1006,11.2,1,0,180.0,right,11000000.0,2019.0
+416,Neco Williams,WAL,DF,Liverpool,18,6,3,230,2.6,0,0,183.0,right,8800000.0,2019.0
+417,Willian,BRA,FW,Chelsea,30,36,29,2600,28.9,9,7,175.0,right,9900000.0,2019.0
+418,Joe Willock,ENG,FW,Arsenal,19,29,8,857,9.5,1,1,186.0,right,17600000.0,2019.0
+419,Joe Willock,ENG,FW,Arsenal,19,29,8,857,9.5,1,1,186.0,right,17600000.0,2019.0
+420,Jack Wilshere,ENG,MF,West Ham,27,8,2,215,2.4,0,0,172.0,left,2750000.0,2019.0
+421,Callum Wilson,ENG,FW,Bournemouth,27,35,32,2908,32.3,8,1,180.0,right,24200000.0,2019.0
+422,Callum Wilson,ENG,FW,Bournemouth,27,35,32,2908,32.3,8,1,180.0,right,26400000.0,2019.0
+423,Harry Wilson,WAL,FW,Bournemouth,22,31,20,1646,18.3,7,0,173.0,left,18700000.0,2019.0
+424,Harry Wilson,WAL,FW,Bournemouth,22,31,20,1646,18.3,7,0,173.0,left,19250000.0,2019.0
+425,Harry Winks,ENG,MF,Tottenham,23,31,26,2221,24.7,0,0,178.0,right,22000000.0,2019.0
+426,Chris Wood,NZL,FW,Burnley,27,32,29,2437,27.1,14,1,191.0,right,8800000.0,2019.0
+427,Granit Xhaka,SUI,MF,Arsenal,26,31,30,2586,28.7,1,2,186.0,left,24200000.0,2019.0
+428,Andriy Yarmolenko,UKR,FW,West Ham,29,23,10,991,11.0,5,1,189.0,left,4400000.0,2019.0
+429,DeAndre Yedlin,USA,DF,Newcastle Utd,26,16,10,938,10.4,1,0,173.0,right,5500000.0,2019.0
+430,Wilfried Zaha,CIV,FW,Crystal Palace,26,38,37,3280,36.4,4,3,180.0,right,49500000.0,2019.0
+431,Christoph Zimmermann,GER,DF,Norwich City,26,17,16,1430,15.9,0,1,194.0,right,3080000.0,2019.0
+432,Oleksandr Zinchenko,UKR,DF,Manchester City,22,19,13,1276,14.2,0,0,175.0,left,27500000.0,2019.0
+433,Kurt Zouma,FRA,DF,Chelsea,24,28,25,2344,26.0,0,0,190.0,right,35200000.0,2019.0
+434,Patrick van Aanholt,NED,DF,Crystal Palace,29,22,20,1777,19.7,0,1,176.0,left,7700000.0,2020.0
+435,Tammy Abraham,ENG,FW,Chelsea,22,22,12,1040,11.6,6,1,190.0,right,41800000.0,2020.0
+436,Tosin Adarabioyo,ENG,DF,Fulham,22,33,33,2953,32.8,0,0,196.0,right,13200000.0,2020.0
+437,Adrián,ESP,GK,Liverpool,33,3,3,270,3.0,0,0,190.0,right,1100000.0,2020.0
+438,Sergio Agüero,ARG,MF,Manchester City,32,12,7,559,6.2,4,1,173.0,right,19800000.0,2020.0
+439,Ola Aina,NGA,DF,Fulham,23,31,31,2664,29.6,2,1,184.0,right,6600000.0,2020.0
+440,Rayan Aït Nouri,FRA,DF,Wolves,19,21,16,1404,15.6,1,1,179.0,left,19800000.0,2020.0
+441,Semi Ajayi,NGA,DF,West Brom,26,33,31,2780,30.9,2,0,193.0,right,6600000.0,2020.0
+442,Nathan Aké,NED,DF,Manchester City,25,10,9,797,8.9,1,0,180.0,left,35200000.0,2020.0
+443,Nathan Aké,NED,DF,Manchester City,25,10,9,797,8.9,1,0,180.0,left,30800000.0,2020.0
+444,Marc Albrighton,ENG,FW,Leicester City,30,31,17,1746,19.4,1,5,175.0,right,4400000.0,2020.0
+445,Toby Alderweireld,BEL,DF,Tottenham,31,25,25,2240,24.9,1,0,187.0,right,12100000.0,2020.0
+446,Rúnar Alex Rúnarsson,ISL,GK,Arsenal,25,1,0,16,0.2,0,0,186.0,right,1650000.0,2020.0
+447,Trent Alexander-Arnold,ENG,DF,Liverpool,21,36,34,3031,33.7,2,7,180.0,right,82500000.0,2020.0
+448,Ezgjan Alioski,MKD,DF,Leeds United,28,36,29,2461,27.3,2,3,171.0,left,5500000.0,2020.0
+449,Alisson,BRA,GK,Liverpool,27,33,33,2970,33.0,1,0,191.0,right,66000000.0,2020.0
+450,Allan,BRA,MF,Everton,29,24,23,2051,22.8,0,0,175.0,right,24200000.0,2020.0
+451,Dele Alli,ENG,MF,Tottenham,24,15,7,620,6.9,0,1,188.0,right,33000000.0,2020.0
+452,Miguel Almirón,PAR,FW,Newcastle Utd,26,34,28,2429,27.0,4,1,174.0,left,17600000.0,2020.0
+453,Marcos Alonso,ESP,DF,Chelsea,29,13,11,960,10.7,2,0,189.0,left,13200000.0,2020.0
+454,Steven Alzate,COL,DF,Brighton,21,15,10,896,10.0,1,0,180.0,right,6600000.0,2020.0
+455,Daniel Amartey,GHA,DF,Leicester City,25,12,8,722,8.0,1,0,186.0,right,5500000.0,2020.0
+456,Ethan Ampadu,WAL,MF,Sheffield Utd,19,25,23,2089,23.2,0,0,182.0,right,16500000.0,2020.0
+457,Ethan Ampadu,WAL,MF,Sheffield Utd,19,25,23,2089,23.2,0,0,182.0,right,16500000.0,2020.0
+458,Joachim Andersen,DEN,DF,Fulham,24,31,30,2730,30.3,1,1,192.0,right,24200000.0,2020.0
+459,Elliot Anderson,SCO,MF,Newcastle Utd,17,1,0,4,0.0,0,0,179.0,right,220000.0,2020.0
+460,Felipe Anderson,BRA,MF,West Ham,27,2,0,3,0.0,0,0,175.0,right,11000000.0,2020.0
+461,Michail Antonio,JAM,FW,West Ham,30,26,24,1974,21.9,10,5,180.0,right,13200000.0,2020.0
+462,Alphonse Areola,FRA,GK,Fulham,27,36,36,3240,36.0,0,0,195.0,right,18700000.0,2020.0
+463,Stuart Armstrong,SCO,MF,Southampton,28,33,32,2764,30.7,4,5,183.0,right,8800000.0,2020.0
+464,Kepa Arrizabalaga,ESP,GK,Chelsea,25,7,6,585,6.5,0,0,186.0,right,14300000.0,2020.0
+465,Pierre-Emerick Aubameyang,GAB,FW,Arsenal,31,29,26,2332,25.9,10,3,187.0,right,27500000.0,2020.0
+466,Serge Aurier,CIV,DF,Tottenham,27,19,19,1605,17.8,2,3,176.0,right,22000000.0,2020.0
+467,Charlie Austin,ENG,FW,West Brom,31,5,0,138,1.5,0,0,188.0,right,2200000.0,2020.0
+468,Jordan Ayew,GHA,MF,Crystal Palace,28,33,23,2096,23.3,1,3,182.0,right,8800000.0,2020.0
+469,Luke Ayling,ENG,DF,Leeds United,28,38,38,3399,37.8,0,0,183.0,right,5500000.0,2020.0
+470,César Azpilicueta,ESP,DF,Chelsea,30,26,24,2188,24.3,1,2,178.0,right,14300000.0,2020.0
+471,Eric Bailly,CIV,DF,Manchester Utd,26,12,10,916,10.2,0,0,187.0,right,16500000.0,2020.0
+472,Fabián Balbuena,PAR,DF,West Ham,28,14,13,1198,13.3,1,0,188.0,right,5500000.0,2020.0
+473,George Baldock,ENG,DF,Sheffield Utd,27,32,32,2787,31.0,0,2,178.0,right,5500000.0,2020.0
+474,Gareth Bale,WAL,FW,Tottenham,31,20,10,920,10.2,11,2,185.0,left,19800000.0,2020.0
+475,Patrick Bamford,ENG,FW,Leeds United,26,38,37,3050,33.9,17,7,185.0,left,24200000.0,2020.0
+476,Phil Bardsley,SCO,DF,Burnley,35,4,3,274,3.0,0,0,180.0,right,330000.0,2020.0
+477,Ross Barkley,ENG,MF,Aston Villa,26,24,18,1531,17.0,3,1,185.0,right,22000000.0,2020.0
+478,Ross Barkley,ENG,MF,Aston Villa,26,24,18,1531,17.0,3,1,185.0,right,22000000.0,2020.0
+479,Ross Barkley,ENG,MF,Chelsea,26,2,0,42,0.5,0,0,185.0,right,22000000.0,2020.0
+480,Ross Barkley,ENG,MF,Chelsea,26,2,0,42,0.5,0,0,185.0,right,22000000.0,2020.0
+481,Ashley Barnes,ENG,FW,Burnley,30,22,15,1331,14.8,3,0,186.0,right,3850000.0,2020.0
+482,Harvey Barnes,ENG,MF,Leicester City,22,25,22,1945,21.6,9,4,182.0,right,38500000.0,2020.0
+483,Kyle Bartley,ENG,DF,West Brom,29,30,28,2584,28.7,3,1,194.0,right,2750000.0,2020.0
+484,Chris Basham,ENG,MF,Sheffield Utd,32,31,31,2576,28.6,0,1,190.0,right,2200000.0,2020.0
+485,Michy Batshuayi,BEL,FW,Crystal Palace,26,18,7,728,8.1,2,1,185.0,right,11000000.0,2020.0
+486,Michy Batshuayi,BEL,FW,Crystal Palace,26,18,7,728,8.1,2,1,185.0,right,11000000.0,2020.0
+487,Jan Bednarek,POL,DF,Southampton,24,36,36,3100,34.4,1,1,189.0,right,27500000.0,2020.0
+488,Donny van de Beek,NED,FW,Manchester Utd,23,19,4,524,5.8,1,1,184.0,right,33000000.0,2020.0
+489,Héctor Bellerín,ESP,DF,Arsenal,25,25,24,2089,23.2,1,2,178.0,right,27500000.0,2020.0
+490,Saïd Benrahma,ALG,MF,West Ham,24,30,14,1391,15.5,1,6,172.0,right,24200000.0,2020.0
+491,Josh Benson,ENG,MF,Burnley,20,6,2,264,2.9,0,0,175.0,right,440000.0,2020.0
+492,Christian Benteke,BEL,FW,Crystal Palace,29,30,21,1816,20.2,10,1,190.0,right,9900000.0,2020.0
+493,Gaetano Berardi,SUI,DF,Leeds United,31,2,1,113,1.3,0,0,179.0,right,330000.0,2020.0
+494,Sander Berge,NOR,MF,Sheffield Utd,22,15,13,1120,12.4,1,1,195.0,right,19800000.0,2020.0
+495,Steven Bergwijn,NED,MF,Tottenham,22,21,13,1208,13.4,1,3,178.0,right,24200000.0,2020.0
+496,Bernard,BRA,FW,Everton,27,12,3,455,5.1,1,0,164.0,right,13200000.0,2020.0
+497,Bernardo,BRA,MF,Brighton,25,3,2,206,2.3,0,0,186.0,left,4400000.0,2020.0
+498,Ryan Bertrand,ENG,DF,Southampton,30,29,29,2598,28.9,0,1,179.0,left,8800000.0,2020.0
+499,Yves Bissouma,MLI,MF,Brighton,23,36,35,3111,34.6,1,0,182.0,right,27500000.0,2020.0
+500,Jayden Bogle,ENG,DF,Sheffield Utd,20,16,12,1110,12.3,2,0,178.0,right,7700000.0,2020.0
+501,Willy Boly,CIV,DF,Wolves,29,21,21,1879,20.9,1,1,195.0,right,15400000.0,2020.0
+502,Jarrod Bowen,ENG,MF,West Ham,23,38,30,2562,28.5,8,5,175.0,left,33000000.0,2020.0
+503,Robbie Brady,IRL,MF,Burnley,28,19,12,1052,11.7,1,1,176.0,left,3300000.0,2020.0
+504,Rhian Brewster,ENG,FW,Sheffield Utd,20,27,12,1128,12.5,0,0,180.0,right,13200000.0,2020.0
+505,Rhian Brewster,ENG,FW,Sheffield Utd,20,27,12,1128,12.5,0,0,180.0,right,13200000.0,2020.0
+506,Nathan Broadhead,WAL,MF,Everton,22,1,0,3,0.0,0,0,178.0,right,550000.0,2020.0
+507,Josh Brownhill,ENG,MF,Burnley,24,33,32,2813,31.3,0,1,179.0,right,7700000.0,2020.0
+508,Joe Bryan,ENG,FW,Fulham,26,16,7,669,7.4,1,0,173.0,left,5500000.0,2020.0
+509,Kean Bryan,ENG,DF,Sheffield Utd,23,13,12,1004,11.2,1,0,185.0,left,2200000.0,2020.0
+510,Oliver Burke,SCO,FW,Sheffield Utd,23,25,14,1269,14.1,1,1,188.0,right,6600000.0,2020.0
+511,Dan Burn,ENG,DF,Brighton,28,27,23,2061,22.9,1,0,201.0,left,5500000.0,2020.0
+512,Jack Butland,ENG,GK,Crystal Palace,27,1,1,90,1.0,0,0,196.0,right,2200000.0,2020.0
+513,David Button,ENG,GK,West Brom,31,1,1,90,1.0,0,0,191.0,right,1100000.0,2020.0
+514,Oskar Buur,DEN,DF,Wolves,22,1,0,22,0.2,0,0,180.0,right,330000.0,2020.0
+515,Willy Caballero,ARG,GK,Chelsea,38,1,1,90,1.0,0,0,186.0,right,275000.0,2020.0
+516,Gary Cahill,ENG,DF,Crystal Palace,34,20,20,1800,20.0,1,1,193.0,right,1650000.0,2020.0
+517,Tom Cairney,SCO,MF,Fulham,29,10,9,759,8.4,1,1,185.0,left,9900000.0,2020.0
+518,Dominic Calvert-Lewin,ENG,FW,Everton,23,33,32,2871,31.9,16,0,189.0,right,49500000.0,2020.0
+519,João Cancelo,POR,DF,Manchester City,26,28,27,2299,25.5,2,3,182.0,right,60500000.0,2020.0
+520,Andy Carroll,ENG,FW,Newcastle Utd,31,18,4,392,4.4,1,0,193.0,left,1650000.0,2020.0
+521,Scott Carson,ENG,GK,Manchester City,34,1,1,90,1.0,0,0,188.0,right,550000.0,2020.0
+522,Matty Cash,ENG,DF,Aston Villa,22,28,28,2372,26.4,0,2,185.0,right,24200000.0,2020.0
+523,Kiko Casilla,ESP,GK,Leeds United,33,3,3,270,3.0,0,0,190.0,right,880000.0,2020.0
+524,Timothy Castagne,BEL,DF,Leicester City,24,27,27,2345,26.1,2,3,185.0,right,30800000.0,2020.0
+525,Ivan Cavaleiro,POR,MF,Fulham,26,36,27,2472,27.5,3,0,175.0,right,7700000.0,2020.0
+526,Edinson Cavani,URU,FW,Manchester Utd,33,26,13,1375,15.3,10,3,184.0,right,6600000.0,2020.0
+527,Dani Ceballos,ESP,MF,Arsenal,23,25,17,1615,17.9,0,3,179.0,right,29700000.0,2020.0
+528,Calum Chambers,ENG,DF,Arsenal,25,10,8,753,8.4,0,2,182.0,right,13200000.0,2020.0
+529,Ben Chilwell,ENG,DF,Chelsea,23,27,27,2286,25.4,3,5,180.0,left,49500000.0,2020.0
+530,Hamza Choudhury,ENG,MF,Leicester City,22,10,4,316,3.5,0,0,178.0,right,7700000.0,2020.0
+531,Andreas Christensen,DEN,DF,Chelsea,24,17,15,1371,15.2,0,0,188.0,right,33000000.0,2020.0
+532,Carney Chukwuemeka,ENG,MF,Aston Villa,16,2,0,20,0.2,0,0,185.0,right,1100000.0,2020.0
+533,Ciaran Clark,IRL,DF,Newcastle Utd,30,22,21,1891,21.0,1,0,188.0,left,3300000.0,2020.0
+534,Nathaniel Clyne,ENG,DF,Crystal Palace,29,13,13,1145,12.7,0,1,175.0,right,3300000.0,2020.0
+535,Conor Coady,ENG,DF,Wolves,27,37,37,3303,36.7,1,0,185.0,right,27500000.0,2020.0
+536,Aaron Connolly,IRL,FW,Brighton,20,17,9,791,8.8,2,1,175.0,right,7700000.0,2020.0
+537,Liam Cooper,SCO,DF,Leeds United,28,25,25,2185,24.3,1,0,186.0,left,7700000.0,2020.0
+538,Theo Corbeanu,CAN,FW,Wolves,18,1,0,9,0.1,0,0,190.0,-,550000.0,2020.0
+539,Jack Cork,ENG,MF,Burnley,31,16,15,1350,15.0,0,0,185.0,right,5500000.0,2020.0
+540,Hélder Costa,POR,FW,Leeds United,26,22,13,1156,12.8,3,3,179.0,left,11000000.0,2020.0
+541,Aaron Cresswell,ENG,DF,West Ham,30,36,36,3170,35.2,0,8,170.0,left,5500000.0,2020.0
+542,Patrick Cutrone,ITA,FW,Wolves,22,2,0,25,0.3,0,0,183.0,right,9900000.0,2020.0
+543,Stuart Dallas,NIR,MF,Leeds United,29,38,38,3409,37.9,8,2,183.0,right,4400000.0,2020.0
+544,Scott Dann,ENG,DF,Crystal Palace,33,15,15,1350,15.0,1,0,194.0,right,1650000.0,2020.0
+545,Karl Darlow,ENG,GK,Newcastle Utd,29,25,25,2250,25.0,0,0,190.0,right,3300000.0,2020.0
+546,Ben Davies,WAL,DF,Tottenham,27,20,14,1346,15.0,0,1,185.0,left,3300000.0,2020.0
+547,Ben Davies,WAL,DF,Tottenham,27,20,14,1346,15.0,0,1,181.0,left,17600000.0,2020.0
+548,Tom Davies,ENG,MF,Everton,22,25,17,1423,15.8,0,1,180.0,right,19800000.0,2020.0
+549,Keinan Davis,ENG,MF,Aston Villa,22,15,1,277,3.1,1,1,189.0,left,3300000.0,2020.0
+550,Leif Davis,ENG,DF,Leeds United,20,2,0,33,0.4,0,0,180.0,left,880000.0,2020.0
+551,Craig Dawson,ENG,DF,West Ham,30,22,22,1925,21.4,3,0,188.0,right,5500000.0,2020.0
+552,Craig Dawson,ENG,DF,West Ham,30,22,22,1925,21.4,3,0,188.0,right,5280000.0,2020.0
+553,Kevin De Bruyne,BEL,MF,Manchester City,29,25,23,1997,22.2,6,12,181.0,right,110000000.0,2020.0
+554,Liam Delap,ENG,FW,Manchester City,17,1,0,40,0.4,0,0,186.0,right,1100000.0,2020.0
+555,Fabian Delph,ENG,DF,Everton,30,8,2,266,3.0,0,0,174.0,left,3850000.0,2020.0
+556,Leander Dendoncker,BEL,DF,Wolves,25,33,28,2503,27.8,1,0,188.0,right,33000000.0,2020.0
+557,Mbaye Diagne,SEN,FW,West Brom,28,16,14,1189,13.2,3,2,191.0,right,3300000.0,2020.0
+558,Amad Diallo,CIV,FW,Manchester Utd,18,3,2,166,1.8,0,1,173.0,left,19800000.0,2020.0
+559,Ibrahima Diallo,FRA,MF,Southampton,21,22,10,1020,11.3,0,0,179.0,right,16500000.0,2020.0
+560,Grady Diangana,ENG,FW,West Brom,22,20,15,1235,13.7,1,0,180.0,left,11000000.0,2020.0
+561,Rúben Dias,POR,DF,Manchester City,23,32,32,2843,31.6,1,0,187.0,right,82500000.0,2020.0
+562,Eric Dier,ENG,DF,Tottenham,26,28,28,2520,28.0,0,0,188.0,right,24200000.0,2020.0
+563,Lucas Digne,FRA,DF,Everton,27,30,30,2681,29.8,0,7,178.0,left,38500000.0,2020.0
+564,Virgil van Dijk,NED,DF,Liverpool,29,5,5,370,4.1,1,0,193.0,right,60500000.0,2020.0
+565,Issa Diop,FRA,DF,West Ham,23,18,15,1381,15.3,2,0,194.0,right,19800000.0,2020.0
+566,Moussa Djenepo,MLI,MF,Southampton,22,27,15,1240,13.8,1,0,177.0,right,14300000.0,2020.0
+567,Matt Doherty,IRL,DF,Tottenham,28,17,13,1240,13.8,0,2,185.0,right,17600000.0,2020.0
+568,Abdoulaye Doucouré,FRA,MF,Everton,27,29,29,2443,27.1,2,3,183.0,right,27500000.0,2020.0
+569,Abdoulaye Doucouré,FRA,MF,Everton,27,29,29,2443,27.1,2,3,183.0,right,22000000.0,2020.0
+570,Paul Dummett,WAL,DF,Newcastle Utd,28,15,14,1255,13.9,1,0,183.0,left,3300000.0,2020.0
+571,Lewis Dunk,ENG,DF,Brighton,28,33,33,2931,32.6,5,0,192.0,right,27500000.0,2020.0
+572,Jimmy Dunne,IRL,DF,Burnley,22,3,3,270,3.0,1,0,191.0,right,660000.0,2020.0
+573,Ederson,BRA,GK,Manchester City,26,36,36,3240,36.0,0,1,188.0,left,55000000.0,2020.0
+574,Kyle Edwards,ENG,FW,West Brom,22,5,1,118,1.3,0,0,178.0,right,1100000.0,2020.0
+575,John Egan,IRL,DF,Sheffield Utd,27,31,30,2629,29.2,0,1,185.0,right,9900000.0,2020.0
+576,Anthony Elanga,SWE,FW,Manchester Utd,18,2,2,155,1.7,1,0,178.0,right,880000.0,2020.0
+577,Ahmed Elmohamady,EGY,DF,Aston Villa,32,14,8,839,9.3,0,0,182.0,right,1650000.0,2020.0
+578,Mohamed Elneny,EGY,MF,Arsenal,28,23,17,1544,17.2,1,0,179.0,right,11000000.0,2020.0
+579,Jonny Evans,NIR,DF,Leicester City,32,28,28,2473,27.5,2,2,188.0,both,7700000.0,2020.0
+580,Eberechi Eze,ENG,MF,Crystal Palace,22,34,29,2559,28.4,4,6,173.0,right,22000000.0,2020.0
+581,Fabinho,BRA,MF,Liverpool,26,30,28,2567,28.5,0,0,188.0,right,66000000.0,2020.0
+582,Bruno Fernandes,POR,MF,Manchester Utd,25,37,35,3099,34.4,18,12,179.0,right,99000000.0,2020.0
+583,Federico Fernández,ARG,DF,Newcastle Utd,31,24,24,2079,23.1,0,0,190.0,right,3300000.0,2020.0
+584,Fernandinho,BRA,MF,Manchester City,35,21,12,1188,13.2,0,2,179.0,right,2200000.0,2020.0
+585,Sam Field,ENG,MF,West Brom,22,3,0,62,0.7,0,0,191.0,left,1100000.0,2020.0
+586,Roberto Firmino,BRA,FW,Liverpool,28,36,33,2838,31.5,9,7,181.0,right,55000000.0,2020.0
+587,John Fleck,SCO,MF,Sheffield Utd,28,31,29,2575,28.6,0,2,169.0,left,5500000.0,2020.0
+588,Phil Foden,ENG,MF,Manchester City,20,28,17,1616,18.0,9,5,171.0,left,88000000.0,2020.0
+589,Wesley Fofana,FRA,DF,Leicester City,19,28,27,2262,25.1,0,0,190.0,right,44000000.0,2020.0
+590,Pablo Fornals,ESP,MF,West Ham,24,33,31,2572,28.6,5,4,178.0,right,19800000.0,2020.0
+591,Fraser Forster,ENG,GK,Southampton,32,8,8,720,8.0,0,0,201.0,right,3300000.0,2020.0
+592,Timothy Fosu-Mensah,NED,DF,Manchester Utd,22,1,1,80,0.9,0,0,185.0,right,4400000.0,2020.0
+593,Tyrese Francois,AUS,DF,Fulham,20,1,0,15,0.2,0,0,173.0,left,165000.0,2020.0
+594,Ryan Fraser,SCO,MF,Newcastle Utd,26,18,9,928,10.3,0,2,163.0,right,11000000.0,2020.0
+595,Ryan Fraser,SCO,MF,Newcastle Utd,26,18,9,928,10.3,0,2,163.0,right,19250000.0,2020.0
+596,Fred,BRA,MF,Manchester Utd,27,30,27,2390,26.6,1,0,169.0,left,24200000.0,2020.0
+597,Ryan Fredericks,ENG,FW,West Ham,27,14,6,569,6.3,1,1,181.0,right,2750000.0,2020.0
+598,Christian Fuchs,AUT,DF,Leicester City,34,9,8,702,7.8,0,0,187.0,left,880000.0,2020.0
+599,Darnell Furlong,ENG,DF,West Brom,24,35,32,2932,32.6,1,3,183.0,right,5500000.0,2020.0
+600,Conor Gallagher,ENG,MF,West Brom,20,30,28,2531,28.1,2,2,182.0,right,16500000.0,2020.0
+601,Conor Gallagher,ENG,MF,West Brom,20,30,28,2531,28.1,2,2,182.0,right,16500000.0,2020.0
+602,Eric García,ESP,DF,Manchester City,19,6,3,383,4.3,0,0,182.0,right,22000000.0,2020.0
+603,Dwight Gayle,ENG,MF,Newcastle Utd,29,18,4,514,5.7,1,1,174.0,right,4400000.0,2020.0
+604,Jean-Philippe Gbamin,CIV,MF,Everton,24,1,0,12,0.1,0,0,186.0,right,16500000.0,2020.0
+605,David de Gea,ESP,GK,Manchester Utd,29,26,26,2295,25.5,0,0,189.0,right,19800000.0,2020.0
+606,Anwar El Ghazi,NED,FW,Aston Villa,25,28,17,1613,17.9,10,0,189.0,right,14300000.0,2020.0
+607,Kieran Gibbs,ENG,DF,West Brom,30,10,9,809,9.0,0,0,181.0,left,2750000.0,2020.0
+608,Morgan Gibbs-White,ENG,FW,Wolves,20,11,4,414,4.6,1,0,178.0,right,7700000.0,2020.0
+609,Billy Gilmour,SCO,MF,Chelsea,19,5,3,261,2.9,0,0,170.0,right,11000000.0,2020.0
+610,Olivier Giroud,FRA,FW,Chelsea,33,17,8,748,8.3,4,0,193.0,left,4400000.0,2020.0
+611,Ben Godfrey,ENG,DF,Everton,22,31,29,2685,29.8,0,2,186.0,right,27500000.0,2020.0
+612,Ben Godfrey,ENG,DF,Everton,22,31,29,2685,29.8,0,2,186.0,right,12650000.0,2020.0
+613,André Gomes,POR,MF,Everton,27,28,17,1570,17.4,0,1,188.0,right,22000000.0,2020.0
+614,Joe Gomez,ENG,DF,Liverpool,23,7,6,590,6.6,0,0,188.0,right,33000000.0,2020.0
+615,Anthony Gordon,ENG,MF,Everton,19,3,1,88,1.0,0,0,182.0,right,5500000.0,2020.0
+616,Karlan Grant,ENG,MF,West Brom,22,21,14,1127,12.5,1,0,183.0,right,8800000.0,2020.0
+617,Demarai Gray,ENG,FW,Leicester City,24,1,0,19,0.2,0,0,183.0,right,8800000.0,2020.0
+618,Jack Grealish,ENG,MF,Aston Villa,24,26,24,2185,24.3,6,10,180.0,right,71500000.0,2020.0
+619,Mason Greenwood,ENG,FW,Manchester Utd,18,31,21,1822,20.2,7,2,181.0,both,55000000.0,2020.0
+620,Pascal Groß,GER,DF,Brighton,29,34,27,2484,27.6,3,8,181.0,right,7700000.0,2020.0
+621,Kamil Grosicki,POL,MF,West Brom,32,3,2,148,1.6,0,1,180.0,right,1100000.0,2020.0
+622,Vicente Guaita,ESP,GK,Crystal Palace,33,37,37,3330,37.0,0,0,190.0,right,2200000.0,2020.0
+623,Antwoine Hackford,ENG,DF,Sheffield Utd,16,1,0,11,0.1,0,0,177.0,right,110000.0,2020.0
+624,Sébastien Haller,CIV,FW,West Ham,26,16,10,937,10.4,3,0,190.0,right,29700000.0,2020.0
+625,Rekeem Harper,ENG,MF,West Brom,20,2,0,32,0.4,0,0,183.0,right,2750000.0,2020.0
+626,Jack Harrison,ENG,MF,Leeds United,23,36,34,2847,31.6,8,8,175.0,left,16500000.0,2020.0
+627,Jack Harrison,ENG,MF,Leeds United,23,36,34,2847,31.6,8,8,175.0,left,16500000.0,2020.0
+628,Kortney Hause,ENG,DF,Aston Villa,25,7,7,630,7.0,1,0,191.0,left,5500000.0,2020.0
+629,Kai Havertz,GER,FW,Chelsea,21,27,18,1520,16.9,4,3,189.0,left,77000000.0,2020.0
+630,Isaac Hayden,ENG,DF,Newcastle Utd,25,24,22,1942,21.6,0,0,186.0,right,11000000.0,2020.0
+631,Michael Hector,JAM,DF,Fulham,28,4,3,263,2.9,0,0,193.0,right,3850000.0,2020.0
+632,Dean Henderson,ENG,GK,Manchester Utd,23,13,12,1125,12.5,0,0,188.0,right,24200000.0,2020.0
+633,Jordan Henderson,ENG,DF,Liverpool,30,21,20,1704,18.9,1,1,187.0,right,22000000.0,2020.0
+634,Jeff Hendrick,IRL,MF,Newcastle Utd,28,22,17,1422,15.8,2,1,185.0,right,9900000.0,2020.0
+635,Pablo Hernández,ESP,FW,Leeds United,35,16,3,427,4.7,0,2,173.0,right,880000.0,2020.0
+636,Ki-Jana Hoever,NED,DF,Wolves,18,12,5,577,6.4,0,0,183.0,right,7700000.0,2020.0
+637,Rob Holding,ENG,DF,Arsenal,24,30,28,2558,28.4,0,1,189.0,right,19800000.0,2020.0
+638,Mason Holgate,ENG,DF,Everton,23,28,26,2287,25.4,1,0,187.0,right,22000000.0,2020.0
+639,Conor Hourihane,IRL,MF,Aston Villa,29,4,3,225,2.5,1,1,181.0,left,3850000.0,2020.0
+640,Callum Hudson-Odoi,ENG,DF,Chelsea,19,23,10,1059,11.8,2,3,177.0,right,35200000.0,2020.0
+641,Niall Huggins,WAL,DF,Leeds United,19,1,0,38,0.4,0,0,173.0,right,220000.0,2020.0
+642,Odion Ighalo,NGA,FW,Manchester Utd,31,1,0,10,0.1,0,0,181.0,right,3850000.0,2020.0
+643,Kelechi Iheanacho,NGA,FW,Leicester City,23,25,16,1459,16.2,12,2,185.0,left,22000000.0,2020.0
+644,Danny Ings,ENG,FW,Southampton,28,29,26,2173,24.1,12,4,178.0,right,24200000.0,2020.0
+645,Alex Iwobi,NGA,DF,Everton,24,30,17,1542,17.1,1,2,183.0,right,24200000.0,2020.0
+646,José Izquierdo,COL,DF,Brighton,28,1,0,9,0.1,0,0,171.0,right,4400000.0,2020.0
+647,Phil Jagielka,ENG,DF,Sheffield Utd,37,10,6,526,5.8,0,0,180.0,right,275000.0,2020.0
+648,Alireza Jahanbakhsh,IRN,MF,Brighton,26,21,6,528,5.9,0,1,180.0,right,5500000.0,2020.0
+649,Daniel James,WAL,FW,Manchester Utd,22,15,11,910,10.1,3,1,170.0,right,19800000.0,2020.0
+650,Reece James,ENG,DF,Chelsea,20,32,25,2373,26.4,1,2,180.0,right,44000000.0,2020.0
+651,Alexandre Jankewitz,SUI,MF,Southampton,18,2,1,3,0.0,0,0,185.0,right,550000.0,2020.0
+652,Daniel Jebbison,ENG,FW,Sheffield Utd,17,4,3,284,3.2,1,0,190.0,-,1100000.0,2020.0
+653,Gabriel Jesus,BRA,FW,Manchester City,23,29,22,2063,22.9,9,4,175.0,right,66000000.0,2020.0
+654,Raúl Jiménez,MEX,FW,Wolves,29,10,10,823,9.1,4,0,188.0,right,30800000.0,2020.0
+655,Joelinton,BRA,MF,Newcastle Utd,23,31,23,1983,22.0,4,2,186.0,right,18700000.0,2020.0
+656,Ben Johnson,ENG,DF,West Ham,20,14,5,523,5.8,1,0,175.0,right,3300000.0,2020.0
+657,Sam Johnstone,ENG,GK,West Brom,27,37,37,3330,37.0,0,1,193.0,right,8800000.0,2020.0
+658,Curtis Jones,ENG,MF,Liverpool,19,24,13,1179,13.1,1,2,185.0,right,33000000.0,2020.0
+659,Jorginho,ITA,MF,Chelsea,28,28,23,2010,22.3,7,1,180.0,right,44000000.0,2020.0
+660,Willian José,BRA,FW,Wolves,28,17,12,1110,12.3,1,0,189.0,right,19800000.0,2020.0
+661,Diogo Jota,POR,FW,Liverpool,23,19,12,1112,12.4,9,0,178.0,right,49500000.0,2020.0
+662,Diogo Jota,POR,FW,Liverpool,23,19,12,1112,12.4,9,0,178.0,right,49500000.0,2020.0
+663,James Justin,ENG,DF,Leicester City,22,23,23,2070,23.0,2,1,183.0,right,18700000.0,2020.0
+664,Ozan Kabak,TUR,DF,Liverpool,20,9,9,801,8.9,0,0,186.0,right,27500000.0,2020.0
+665,Aboubakar Kamara,MTN,DF,Fulham,25,11,2,315,3.5,0,0,177.0,right,2200000.0,2020.0
+666,Harry Kane,ENG,FW,Tottenham,27,35,35,3082,34.2,23,14,188.0,right,132000000.0,2020.0
+667,N'Golo Kanté,FRA,MF,Chelsea,29,30,24,2146,23.8,0,2,168.0,right,60500000.0,2020.0
+668,Moise Kean,ITA,FW,Everton,20,2,0,15,0.2,0,0,183.0,right,38500000.0,2020.0
+669,Michael Keane,ENG,DF,Everton,27,35,33,2991,33.2,3,1,188.0,right,27500000.0,2020.0
+670,Neeskens Kebano,COD,MF,Fulham,28,5,1,119,1.3,0,0,170.0,right,1100000.0,2020.0
+671,Naby Keïta,GUI,MF,Liverpool,25,10,7,520,5.8,0,0,172.0,right,35200000.0,2020.0
+672,Martin Kelly,ENG,DF,Crystal Palace,30,1,0,2,0.0,0,0,191.0,right,1650000.0,2020.0
+673,Jonjoe Kenny,ENG,FW,Everton,23,4,1,79,0.9,0,0,176.0,right,6380000.0,2020.0
+674,Reda Khadra,GER,FW,Brighton,19,1,0,5,0.1,0,0,175.0,-,165000.0,2020.0
+675,Max Kilman,ENG,DF,Wolves,23,18,14,1310,14.6,0,1,192.0,left,4950000.0,2020.0
+676,Joshua King,NOR,FW,Everton,28,11,0,148,1.6,0,0,187.0,right,8800000.0,2020.0
+677,Joshua King,NOR,FW,Everton,28,11,0,148,1.6,0,0,187.0,right,17600000.0,2020.0
+678,Mateusz Klich,POL,MF,Leeds United,30,35,28,2393,26.6,4,5,183.0,right,4400000.0,2020.0
+679,Robin Koch,GER,MF,Leeds United,24,17,13,1132,12.6,0,0,191.0,right,18700000.0,2020.0
+680,Terence Kongolo,NED,DF,Fulham,26,1,1,90,1.0,0,0,188.0,left,3850000.0,2020.0
+681,Ezri Konsa,ENG,DF,Aston Villa,22,36,35,3196,35.5,2,0,183.0,right,27500000.0,2020.0
+682,Cheikhou Kouyaté,SEN,DF,Crystal Palace,30,36,35,3121,34.7,1,0,189.0,right,6600000.0,2020.0
+683,Emil Krafth,SWE,DF,Newcastle Utd,25,16,14,1288,14.3,1,0,184.0,right,3850000.0,2020.0
+684,Alexandre Lacazette,FRA,FW,Arsenal,29,31,22,1923,21.4,13,2,176.0,right,30800000.0,2020.0
+685,Adam Lallana,ENG,FW,Brighton,32,30,16,1596,17.7,1,1,172.0,both,4400000.0,2020.0
+686,Tariq Lamptey,ENG,DF,Brighton,19,11,11,886,9.8,1,1,163.0,right,19800000.0,2020.0
+687,Manuel Lanzini,ARG,FW,West Ham,27,17,5,566,6.3,1,1,167.0,right,11000000.0,2020.0
+688,Aymeric Laporte,ESP,DF,Manchester City,26,16,14,1344,14.9,0,0,189.0,left,49500000.0,2020.0
+689,Jamaal Lascelles,ENG,DF,Newcastle Utd,26,19,19,1625,18.1,2,0,188.0,right,14300000.0,2020.0
+690,Maxime Le Marchand,FRA,DF,Fulham,30,2,1,123,1.4,0,0,185.0,left,1650000.0,2020.0
+691,Mario Lemina,GAB,MF,Fulham,26,28,19,1703,18.9,1,0,184.0,right,11000000.0,2020.0
+692,Mario Lemina,GAB,MF,Fulham,26,28,19,1703,18.9,1,0,184.0,right,11000000.0,2020.0
+693,Bernd Leno,GER,GK,Arsenal,28,35,35,3131,34.8,0,0,190.0,right,24200000.0,2020.0
+694,Khanya Leshabela,RSA,MF,Leicester City,20,1,0,10,0.1,0,0,175.0,-,110000.0,2020.0
+695,Jamal Lewis,NIR,DF,Newcastle Utd,22,24,20,1837,20.4,0,1,178.0,left,16500000.0,2020.0
+696,Jamal Lewis,NIR,DF,Newcastle Utd,22,24,20,1837,20.4,0,1,178.0,left,12100000.0,2020.0
+697,Victor Lindelöf,SWE,DF,Manchester Utd,26,29,29,2585,28.7,1,1,187.0,right,26400000.0,2020.0
+698,Jesse Lingard,ENG,FW,West Ham,27,16,16,1421,15.8,9,4,174.0,right,24200000.0,2020.0
+699,Jesse Lingard,ENG,FW,West Ham,27,16,16,1421,15.8,9,4,174.0,right,24200000.0,2020.0
+700,Jake Livermore,ENG,MF,West Brom,30,18,15,1242,13.8,0,0,180.0,right,2750000.0,2020.0
+701,Diego Llorente,ESP,DF,Leeds United,26,15,14,1204,13.4,1,0,186.0,right,22000000.0,2020.0
+702,Hugo Lloris,FRA,GK,Tottenham,33,38,38,3420,38.0,0,0,188.0,left,9900000.0,2020.0
+703,Giovani Lo Celso,ARG,MF,Tottenham,24,18,11,945,10.5,1,1,177.0,left,29700000.0,2020.0
+704,Ruben Loftus-Cheek,ENG,FW,Fulham,24,30,21,1909,21.2,1,0,190.0,right,19800000.0,2020.0
+705,Ruben Loftus-Cheek,ENG,FW,Fulham,24,30,21,1909,21.2,1,0,190.0,right,19800000.0,2020.0
+706,Ruben Loftus-Cheek,ENG,FW,Chelsea,24,1,1,60,0.7,0,0,190.0,right,19800000.0,2020.0
+707,Ruben Loftus-Cheek,ENG,FW,Chelsea,24,1,1,60,0.7,0,0,190.0,right,19800000.0,2020.0
+708,Kevin Long,IRL,DF,Burnley,29,8,7,637,7.1,0,0,188.0,right,1100000.0,2020.0
+709,Shane Long,IRL,FW,Southampton,33,11,1,210,2.3,0,0,180.0,both,1320000.0,2020.0
+710,Sean Longstaff,ENG,MF,Newcastle Utd,22,22,15,1412,15.7,0,1,181.0,right,16500000.0,2020.0
+711,Ademola Lookman,ENG,MF,Fulham,22,34,31,2747,30.5,4,4,174.0,right,12100000.0,2020.0
+712,Max Lowe,ENG,DF,Sheffield Utd,23,8,7,550,6.1,0,0,175.0,left,3300000.0,2020.0
+713,Matthew Lowton,ENG,DF,Burnley,31,34,34,3060,34.0,1,1,180.0,right,2750000.0,2020.0
+714,David Luiz,BRA,DF,Arsenal,33,20,17,1396,15.5,1,0,189.0,right,4400000.0,2020.0
+715,Douglas Luiz,BRA,MF,Aston Villa,22,33,32,2781,30.9,0,2,177.0,right,38500000.0,2020.0
+716,John Lundstram,ENG,MF,Sheffield Utd,26,28,23,2032,22.6,0,2,181.0,right,7700000.0,2020.0
+717,Alexis Mac Allister,ARG,FW,Brighton,21,21,13,1115,12.4,1,1,174.0,right,11000000.0,2020.0
+718,James Maddison,ENG,FW,Leicester City,23,31,24,2099,23.3,8,5,175.0,right,60500000.0,2020.0
+719,Harry Maguire,ENG,DF,Manchester Utd,27,34,34,3047,33.9,2,1,194.0,right,49500000.0,2020.0
+720,Riyad Mahrez,ALG,FW,Manchester City,29,27,23,1949,21.7,9,6,179.0,left,46200000.0,2020.0
+721,Ainsley Maitland-Niles,ENG,MF,West Brom,22,15,14,1230,13.7,0,0,180.0,right,17600000.0,2020.0
+722,Ainsley Maitland-Niles,ENG,MF,West Brom,22,15,14,1230,13.7,0,0,180.0,right,17600000.0,2020.0
+723,Ainsley Maitland-Niles,ENG,DF,Arsenal,22,11,5,490,5.4,0,0,180.0,right,17600000.0,2020.0
+724,Ainsley Maitland-Niles,ENG,DF,Arsenal,22,11,5,490,5.4,0,0,180.0,right,17600000.0,2020.0
+725,Josh Maja,NGA,MF,Fulham,21,15,9,810,9.0,3,0,180.0,right,5500000.0,2020.0
+726,Sadio Mané,SEN,FW,Liverpool,28,35,31,2810,31.2,11,7,174.0,right,93500000.0,2020.0
+727,Javier Manquillo,ESP,DF,Newcastle Utd,26,13,10,825,9.2,0,0,178.0,right,3300000.0,2020.0
+728,Solly March,ENG,DF,Brighton,26,21,19,1672,18.6,2,1,180.0,left,9900000.0,2020.0
+729,Pablo Marí,ESP,DF,Arsenal,26,10,10,900,10.0,0,0,193.0,left,7700000.0,2020.0
+730,Anthony Martial,FRA,FW,Manchester Utd,24,22,17,1480,16.4,4,3,181.0,right,49500000.0,2020.0
+731,Emiliano Martínez,ARG,GK,Aston Villa,27,38,38,3420,38.0,0,0,195.0,right,33000000.0,2020.0
+732,Emiliano Martínez,ARG,GK,Aston Villa,27,38,38,3420,38.0,0,0,195.0,right,33000000.0,2020.0
+733,Arthur Masuaku,COD,FW,West Ham,26,12,12,1006,11.2,0,2,179.0,left,7700000.0,2020.0
+734,Juan Mata,ESP,MF,Manchester Utd,32,9,6,509,5.7,1,2,170.0,left,4400000.0,2020.0
+735,Jean-Philippe Mateta,FRA,FW,Crystal Palace,23,7,2,221,2.5,1,0,192.0,right,14300000.0,2020.0
+736,Neal Maupay,FRA,MF,Brighton,23,33,29,2512,27.9,8,2,173.0,right,22000000.0,2020.0
+737,James McArthur,SCO,MF,Crystal Palace,32,18,17,1466,16.3,0,2,178.0,both,2200000.0,2020.0
+738,Oliver McBurnie,SCO,FW,Sheffield Utd,24,23,12,1324,14.7,1,0,188.0,right,11000000.0,2020.0
+739,Alex McCarthy,ENG,GK,Southampton,30,30,30,2700,30.0,0,0,193.0,right,5500000.0,2020.0
+740,James McCarthy,IRL,MF,Crystal Palace,29,16,10,821,9.1,0,0,180.0,right,3300000.0,2020.0
+741,John McGinn,SCO,MF,Aston Villa,25,37,37,3330,37.0,3,5,178.0,left,33000000.0,2020.0
+742,David McGoldrick,IRL,MF,Sheffield Utd,32,35,28,2397,26.6,8,1,184.0,right,1650000.0,2020.0
+743,Dwight McNeil,ENG,MF,Burnley,20,36,34,3069,34.1,2,5,183.0,left,24200000.0,2020.0
+744,Scott McTominay,SCO,MF,Manchester Utd,23,32,24,2129,23.7,4,1,191.0,right,38500000.0,2020.0
+745,Ben Mee,ENG,DF,Burnley,30,30,30,2693,29.9,2,0,180.0,left,6600000.0,2020.0
+746,Hannibal Mejbri,TUN,MF,Manchester Utd,17,1,0,9,0.1,0,0,184.0,right,3300000.0,2020.0
+747,Benjamin Mendy,FRA,DF,Manchester City,26,13,11,953,10.6,2,1,185.0,left,22000000.0,2020.0
+748,Edouard Mendy,SEN,GK,Chelsea,28,31,31,2745,30.5,0,0,195.0,right,27500000.0,2020.0
+749,Nampalys Mendy,SEN,MF,Leicester City,28,23,15,1459,16.2,0,1,167.0,right,8800000.0,2020.0
+750,Illan Meslier,FRA,GK,Leeds United,20,35,35,3150,35.0,0,0,197.0,left,22000000.0,2020.0
+751,James Milner,ENG,DF,Liverpool,34,26,11,1070,11.9,0,1,175.0,right,3300000.0,2020.0
+752,Yerry Mina,COL,DF,Everton,25,24,23,1937,21.5,2,0,195.0,right,22000000.0,2020.0
+753,Takumi Minamino,JPN,FW,Liverpool,25,9,2,293,3.3,1,0,174.0,right,13200000.0,2020.0
+754,Takumi Minamino,JPN,FW,Liverpool,25,9,2,293,3.3,1,0,174.0,right,13200000.0,2020.0
+755,Takumi Minamino,JPN,FW,Southampton,25,10,9,711,7.9,2,0,174.0,right,13200000.0,2020.0
+756,Takumi Minamino,JPN,FW,Southampton,25,10,9,711,7.9,2,0,174.0,right,13200000.0,2020.0
+757,Tyrone Mings,ENG,DF,Aston Villa,27,36,36,3194,35.5,2,2,195.0,left,33000000.0,2020.0
+758,Tyrick Mitchell,ENG,DF,Crystal Palace,20,19,19,1710,19.0,1,1,175.0,left,7700000.0,2020.0
+759,Jakub Moder,POL,MF,Brighton,21,12,7,647,7.2,0,0,191.0,right,11000000.0,2020.0
+760,Jayson Molumby,IRL,MF,Brighton,20,1,0,1,0.0,0,0,176.0,right,1100000.0,2020.0
+761,Wes Morgan,JAM,DF,Leicester City,36,3,0,18,0.2,0,0,185.0,right,440000.0,2020.0
+762,Mason Mount,ENG,FW,Chelsea,21,36,32,2890,32.1,6,5,180.0,right,82500000.0,2020.0
+763,Lucas Moura,BRA,MF,Tottenham,27,30,14,1411,15.7,3,4,172.0,right,27500000.0,2020.0
+764,Lys Mousset,FRA,MF,Sheffield Utd,24,11,2,296,3.3,0,0,184.0,right,9900000.0,2020.0
+765,João Moutinho,POR,MF,Wolves,33,33,28,2528,28.1,1,1,170.0,right,4400000.0,2020.0
+766,Joel Mumbongo,SWE,FW,Burnley,21,4,0,40,0.4,0,0,188.0,right,330000.0,2020.0
+767,Jacob Murphy,ENG,MF,Newcastle Utd,25,26,17,1626,18.1,2,3,173.0,right,4400000.0,2020.0
+768,Shkodran Mustafi,GER,DF,Arsenal,28,3,0,47,0.5,0,0,184.0,right,2750000.0,2020.0
+769,Marvelous Nakamba,ZIM,MF,Aston Villa,26,13,9,749,8.3,0,0,177.0,left,7700000.0,2020.0
+770,Iliman Ndiaye,FRA,MF,Sheffield Utd,21,1,0,12,0.1,0,0,180.0,-,220000.0,2020.0
+771,Wilfred Ndidi,NGA,DF,Leicester City,23,26,25,2176,24.2,1,4,183.0,right,66000000.0,2020.0
+772,Reiss Nelson,ENG,FW,Arsenal,20,2,0,71,0.8,0,0,175.0,right,9900000.0,2020.0
+773,Pedro Neto,POR,MF,Wolves,20,31,30,2550,28.3,5,6,172.0,left,38500000.0,2020.0
+774,Rúben Neves,POR,MF,Wolves,23,36,31,2675,29.7,5,1,180.0,right,49500000.0,2020.0
+775,Eddie Nketiah,ENG,FW,Arsenal,21,17,4,423,4.7,2,1,180.0,right,17600000.0,2020.0
+776,Niels Nkounkou,FRA,FW,Everton,19,2,1,81,0.9,0,0,180.0,left,3300000.0,2020.0
+777,Mark Noble,ENG,MF,West Ham,33,21,8,712,7.9,0,0,180.0,right,2200000.0,2020.0
+778,Will Norris,ENG,GK,Burnley,26,2,2,180,2.0,0,0,190.0,right,440000.0,2020.0
+779,Oliver Norwood,NIR,MF,Sheffield Utd,29,32,26,2220,24.7,0,0,175.0,right,5500000.0,2020.0
+780,Jack O'Connell,ENG,DF,Sheffield Utd,26,2,2,180,2.0,0,0,191.0,left,5500000.0,2020.0
+781,Dara O'Shea,IRL,DF,West Brom,21,28,25,2102,23.4,0,0,189.0,right,3300000.0,2020.0
+782,Michael Obafemi,IRL,FW,Southampton,20,4,0,61,0.7,0,0,170.0,right,3300000.0,2020.0
+783,Denis Odoi,BEL,DF,Fulham,32,3,3,270,3.0,0,0,178.0,right,660000.0,2020.0
+784,Angelo Ogbonna,ITA,DF,West Ham,32,28,28,2492,27.7,3,0,191.0,left,2750000.0,2020.0
+785,Robin Olsen,SWE,GK,Everton,30,7,7,630,7.0,0,0,196.0,right,3300000.0,2020.0
+786,Josh Onomah,ENG,MF,Fulham,23,11,4,374,4.2,0,0,185.0,right,6600000.0,2020.0
+787,Divock Origi,BEL,FW,Liverpool,25,9,2,186,2.1,0,0,185.0,right,13200000.0,2020.0
+788,Ben Osborn,ENG,DF,Sheffield Utd,25,24,17,1604,17.8,1,0,176.0,left,2200000.0,2020.0
+789,Owen Otasowie,USA,FW,Wolves,19,6,2,187,2.1,0,1,191.0,right,1650000.0,2020.0
+790,Alex Oxlade-Chamberlain,ENG,MF,Liverpool,26,13,2,253,2.8,1,1,175.0,right,19800000.0,2020.0
+791,Thomas Partey,GHA,MF,Arsenal,27,24,18,1534,17.0,0,2,185.0,right,44000000.0,2020.0
+792,Rui Patrício,POR,GK,Wolves,32,37,37,3329,37.0,0,0,190.0,left,11000000.0,2020.0
+793,Bailey Peacock-Farrell,NIR,GK,Burnley,23,4,4,360,4.0,0,0,194.0,left,1100000.0,2020.0
+794,Lee Peltier,ENG,DF,West Brom,33,4,3,229,2.5,0,0,178.0,right,440000.0,2020.0
+795,Nicolas Pépé,CIV,FW,Arsenal,25,29,16,1616,18.0,10,1,183.0,left,38500000.0,2020.0
+796,Matheus Pereira,BRA,FW,West Brom,24,33,30,2577,28.6,11,6,175.0,left,16500000.0,2020.0
+797,Ricardo Pereira,POR,DF,Leicester City,26,15,10,959,10.7,0,1,175.0,right,33000000.0,2020.0
+798,Ayoze Pérez,ESP,FW,Leicester City,27,25,15,1331,14.8,2,1,178.0,right,19800000.0,2020.0
+799,Kalvin Phillips,ENG,MF,Leeds United,24,29,28,2428,27.0,1,2,178.0,right,33000000.0,2020.0
+800,Matt Phillips,SCO,FW,West Brom,29,33,20,1828,20.3,2,1,183.0,right,4400000.0,2020.0
+801,Nathaniel Phillips,ENG,DF,Liverpool,23,17,15,1456,16.2,1,1,190.0,right,8800000.0,2020.0
+802,Jordan Pickford,ENG,GK,Everton,26,31,31,2742,30.5,0,0,185.0,left,24200000.0,2020.0
+803,Erik Pieters,NED,MF,Burnley,31,20,13,1266,14.1,0,1,183.0,left,1650000.0,2020.0
+804,Daniel Podence,POR,FW,Wolves,24,24,22,1661,18.5,3,2,165.0,right,27500000.0,2020.0
+805,Paul Pogba,FRA,FW,Manchester Utd,27,26,21,1897,21.1,3,3,191.0,both,66000000.0,2020.0
+806,Nick Pope,ENG,GK,Burnley,28,32,32,2880,32.0,0,0,198.0,right,16500000.0,2020.0
+807,Dennis Praet,BEL,FW,Leicester City,26,15,10,718,8.0,1,1,181.0,right,19800000.0,2020.0
+808,Davy Pröpper,NED,MF,Brighton,28,7,2,213,2.4,0,0,185.0,right,8800000.0,2020.0
+809,Christian Pulisic,USA,MF,Chelsea,21,27,18,1738,19.3,4,2,177.0,right,55000000.0,2020.0
+810,Aaron Ramsdale,ENG,GK,Sheffield Utd,22,38,38,3420,38.0,0,0,191.0,right,13200000.0,2020.0
+811,Aaron Ramsdale,ENG,GK,Sheffield Utd,22,38,38,3420,38.0,0,0,191.0,right,13750000.0,2020.0
+812,Jacob Ramsey,ENG,FW,Aston Villa,19,22,6,626,7.0,0,0,180.0,right,5500000.0,2020.0
+813,Darren Randolph,IRL,GK,West Ham,33,3,3,270,3.0,0,0,187.0,right,1650000.0,2020.0
+814,Marcus Rashford,ENG,FW,Manchester Utd,22,37,33,2920,32.4,11,9,185.0,right,93500000.0,2020.0
+815,Tim Ream,USA,DF,Fulham,32,7,7,630,7.0,0,0,186.0,left,660000.0,2020.0
+816,Nathan Redmond,ENG,FW,Southampton,26,29,17,1738,19.3,2,3,173.0,right,19800000.0,2020.0
+817,Harrison Reed,ENG,MF,Fulham,25,31,26,2247,25.0,0,2,181.0,right,11000000.0,2020.0
+818,Sergio Reguilón,ESP,DF,Tottenham,23,27,26,2244,24.9,0,3,178.0,left,27500000.0,2020.0
+819,Bobby Reid,JAM,DF,Fulham,27,33,28,2372,26.4,5,2,170.0,right,11000000.0,2020.0
+820,Declan Rice,ENG,MF,West Ham,21,32,32,2879,32.0,2,1,185.0,right,71500000.0,2020.0
+821,Lewis Richardson,ENG,MF,Burnley,17,2,0,4,0.0,0,0,,-,220000.0,2020.0
+822,Richarlison,BRA,FW,Everton,23,34,33,2861,31.8,7,3,184.0,right,60500000.0,2020.0
+823,Matt Ritchie,SCO,MF,Newcastle Utd,30,18,15,1350,15.0,0,2,173.0,left,3300000.0,2020.0
+824,Tyler Roberts,WAL,FW,Leeds United,21,27,14,1340,14.9,1,2,180.0,right,6600000.0,2020.0
+825,Andrew Robertson,SCO,DF,Liverpool,26,38,38,3383,37.6,1,7,178.0,left,71500000.0,2020.0
+826,Antonee Robinson,USA,DF,Fulham,22,28,24,2162,24.0,0,0,183.0,left,7700000.0,2020.0
+827,Callum Robinson,IRL,MF,West Brom,25,28,20,1560,17.3,5,0,178.0,right,6600000.0,2020.0
+828,Jack Robinson,ENG,DF,Sheffield Utd,26,11,9,877,9.7,0,1,180.0,left,2200000.0,2020.0
+829,Hal Robson-Kanu,WAL,MF,West Brom,31,19,2,561,6.2,2,0,183.0,left,1650000.0,2020.0
+830,Joe Rodon,WAL,DF,Tottenham,22,12,8,733,8.1,0,0,193.0,right,11000000.0,2020.0
+831,Rodri,ESP,MF,Manchester City,24,34,31,2748,30.5,2,2,191.0,right,77000000.0,2020.0
+832,Rodrigo,ESP,FW,Leeds United,29,26,14,1288,14.3,7,2,182.0,left,19800000.0,2020.0
+833,James Rodríguez,COL,MF,Everton,29,23,21,1764,19.6,6,4,181.0,left,30800000.0,2020.0
+834,Oriol Romeu,ESP,MF,Southampton,28,21,20,1763,19.6,1,1,183.0,right,6600000.0,2020.0
+835,John Ruddy,ENG,GK,Wolves,33,2,1,91,1.0,0,0,192.0,right,880000.0,2020.0
+836,Antonio Rüdiger,GER,DF,Chelsea,27,19,19,1710,19.0,1,0,190.0,right,30800000.0,2020.0
+837,Mathew Ryan,AUS,GK,Brighton,28,11,11,990,11.0,0,0,184.0,right,6600000.0,2020.0
+838,Mathew Ryan,AUS,GK,Brighton,28,11,11,990,11.0,0,0,184.0,right,6600000.0,2020.0
+839,Mathew Ryan,AUS,GK,Arsenal,28,3,3,270,3.0,0,0,184.0,right,6600000.0,2020.0
+840,Mathew Ryan,AUS,GK,Arsenal,28,3,3,270,3.0,0,0,184.0,right,6600000.0,2020.0
+841,Allan Saint-Maximin,FRA,MF,Newcastle Utd,23,25,19,1560,17.3,3,4,173.0,right,33000000.0,2020.0
+842,Romain Saïss,MAR,DF,Wolves,30,27,27,2407,26.7,3,0,188.0,left,11000000.0,2020.0
+843,Bukayo Saka,ENG,DF,Arsenal,18,32,30,2553,28.4,5,3,178.0,left,71500000.0,2020.0
+844,Mamadou Sakho,FRA,DF,Crystal Palace,30,4,3,276,3.1,0,0,187.0,left,6600000.0,2020.0
+845,Mohamed Salah,EGY,FW,Liverpool,28,37,34,3078,34.2,22,5,175.0,left,110000000.0,2020.0
+846,Mohammed Salisu,GHA,DF,Southampton,21,12,8,844,9.4,0,0,191.0,left,11000000.0,2020.0
+847,Davinson Sánchez,COL,DF,Tottenham,24,18,17,1486,16.5,0,0,187.0,right,35200000.0,2020.0
+848,Robert Sánchez,ESP,GK,Brighton,22,27,27,2430,27.0,0,0,,-,8800000.0,2020.0
+849,Morgan Sanson,FRA,MF,Aston Villa,25,9,3,294,3.3,0,0,180.0,right,17600000.0,2020.0
+850,Romaine Sawyers,SKN,MF,West Brom,28,19,17,1487,16.5,0,0,175.0,right,2200000.0,2020.0
+851,Dane Scarlett,ENG,FW,Tottenham,16,1,0,1,0.0,0,0,180.0,right,275000.0,2020.0
+852,Fabian Schär,SUI,DF,Newcastle Utd,28,18,13,1246,13.8,1,0,186.0,right,9900000.0,2020.0
+853,Jeffrey Schlupp,GHA,MF,Crystal Palace,27,27,15,1428,15.9,2,3,178.0,left,9900000.0,2020.0
+854,Kasper Schmeichel,DEN,GK,Leicester City,33,38,38,3420,38.0,0,0,189.0,right,6600000.0,2020.0
+855,Nélson Semedo,POR,DF,Wolves,26,34,34,2983,33.1,1,1,177.0,right,30800000.0,2020.0
+856,Femi Seriki,ENG,DF,Sheffield Utd,18,1,0,1,0.0,0,0,,-,220000.0,2020.0
+857,Jamie Shackleton,ENG,DF,Leeds United,20,13,3,461,5.1,0,0,168.0,right,2750000.0,2020.0
+858,Xherdan Shaqiri,SUI,FW,Liverpool,28,14,5,556,6.2,0,2,169.0,left,13200000.0,2020.0
+859,Billy Sharp,ENG,FW,Sheffield Utd,34,16,7,735,8.2,3,0,175.0,right,550000.0,2020.0
+860,Luke Shaw,ENG,DF,Manchester Utd,25,32,30,2654,29.5,1,5,178.0,left,38500000.0,2020.0
+861,Jonjo Shelvey,ENG,MF,Newcastle Utd,28,30,29,2617,29.1,1,3,184.0,right,14300000.0,2020.0
+862,Shola Shoretire,ENG,FW,Manchester Utd,16,2,0,11,0.1,0,0,171.0,right,3300000.0,2020.0
+863,Bernardo Silva,POR,FW,Manchester City,25,26,24,2065,22.9,2,6,173.0,left,77000000.0,2020.0
+864,Fábio Silva,POR,FW,Wolves,18,32,11,1369,15.2,4,3,185.0,right,27500000.0,2020.0
+865,Thiago Silva,BRA,DF,Chelsea,35,23,23,1935,21.5,2,0,181.0,right,3300000.0,2020.0
+866,Moussa Sissoko,FRA,MF,Tottenham,30,25,15,1585,17.6,0,0,187.0,right,11000000.0,2020.0
+867,Islam Slimani,ALG,FW,Leicester City,32,1,0,20,0.2,0,0,188.0,right,3300000.0,2020.0
+868,Robert Snodgrass,SCO,DF,West Ham,32,3,0,5,0.1,0,0,182.0,left,1650000.0,2020.0
+869,Robert Snodgrass,SCO,DF,West Ham,32,3,0,5,0.1,0,0,182.0,left,1650000.0,2020.0
+870,Robert Snodgrass,SCO,FW,West Brom,32,8,6,526,5.8,0,0,182.0,left,1650000.0,2020.0
+871,Robert Snodgrass,SCO,FW,West Brom,32,8,6,526,5.8,0,0,182.0,left,1650000.0,2020.0
+872,Cédric Soares,POR,DF,Arsenal,28,10,8,746,8.3,0,1,171.0,right,6600000.0,2020.0
+873,Zack Steffen,USA,GK,Manchester City,25,1,1,90,1.0,0,0,191.0,right,6600000.0,2020.0
+874,Dale Stephens,ENG,MF,Burnley,31,7,3,261,2.9,0,0,185.0,right,2750000.0,2020.0
+875,Dale Stephens,ENG,MF,Burnley,31,7,3,261,2.9,0,0,185.0,right,2750000.0,2020.0
+876,Jack Stephens,ENG,DF,Southampton,26,18,17,1537,17.1,0,0,185.0,right,5500000.0,2020.0
+877,Raheem Sterling,ENG,FW,Manchester City,25,31,28,2536,28.2,10,7,170.0,right,99000000.0,2020.0
+878,Enda Stevens,IRL,DF,Sheffield Utd,30,30,30,2700,30.0,0,1,183.0,left,3850000.0,2020.0
+879,John Stones,ENG,DF,Manchester City,26,22,22,1933,21.5,4,0,188.0,right,33000000.0,2020.0
+880,Pascal Struijk,NED,MF,Leeds United,20,27,22,2075,23.1,1,0,190.0,left,9900000.0,2020.0
+881,Japhet Tanganga,ENG,DF,Tottenham,21,6,6,487,5.4,0,0,184.0,right,8800000.0,2020.0
+882,Matt Targett,ENG,DF,Aston Villa,24,38,38,3404,37.8,0,2,183.0,left,18700000.0,2020.0
+883,James Tarkowski,ENG,DF,Burnley,27,36,36,3240,36.0,1,0,185.0,right,27500000.0,2020.0
+884,Percy Tau,RSA,MF,Brighton,26,3,1,103,1.1,0,1,175.0,left,3300000.0,2020.0
+885,Sidnei Tavares,POR,MF,Leicester City,18,2,1,85,0.9,0,0,,-,330000.0,2020.0
+886,Charlie Taylor,ENG,DF,Burnley,26,29,28,2426,27.0,0,1,176.0,left,4400000.0,2020.0
+887,Neil Taylor,WAL,DF,Aston Villa,31,1,0,16,0.2,0,0,176.0,left,1650000.0,2020.0
+888,Allan Tchaptchet,FRA,DF,Southampton,18,1,0,13,0.1,0,0,,-,165000.0,2020.0
+889,Nathan Tella,ENG,MF,Southampton,21,18,7,745,8.3,1,1,173.0,right,2200000.0,2020.0
+890,Alex Telles,BRA,DF,Manchester Utd,27,9,8,690,7.7,0,2,181.0,left,22000000.0,2020.0
+891,Kenny Tete,NED,DF,Fulham,24,22,18,1481,16.5,0,1,180.0,right,5500000.0,2020.0
+892,Luke Thomas,ENG,DF,Leicester City,19,14,12,969,10.8,1,0,181.0,left,5500000.0,2020.0
+893,Youri Tielemans,BEL,MF,Leicester City,23,38,37,3357,37.3,6,4,176.0,right,60500000.0,2020.0
+894,Kieran Tierney,SCO,DF,Arsenal,23,27,26,2299,25.5,1,3,180.0,left,35200000.0,2020.0
+895,James Tomkins,ENG,DF,Crystal Palace,31,8,6,553,6.1,0,0,192.0,right,2750000.0,2020.0
+896,Fikayo Tomori,ENG,DF,Chelsea,22,1,0,45,0.5,0,0,184.0,right,30800000.0,2020.0
+897,Cenk Tosun,TUR,FW,Everton,29,5,0,48,0.5,0,0,183.0,right,5500000.0,2020.0
+898,Andros Townsend,ENG,FW,Crystal Palace,29,34,25,2258,25.1,1,5,181.0,left,7700000.0,2020.0
+899,Conor Townsend,ENG,DF,West Brom,27,25,25,2234,24.8,0,2,168.0,left,2200000.0,2020.0
+900,Adama Traoré,ESP,FW,Wolves,24,37,28,2649,29.4,2,2,178.0,right,33000000.0,2020.0
+901,Bertrand Traoré,BFA,FW,Aston Villa,24,36,29,2317,25.7,7,6,181.0,left,22000000.0,2020.0
+902,Leandro Trossard,BEL,MF,Brighton,25,35,30,2607,29.0,5,5,172.0,right,18700000.0,2020.0
+903,Axel Tuanzebe,ENG,DF,Manchester Utd,22,9,4,404,4.5,0,0,185.0,right,8800000.0,2020.0
+904,Cengiz Ünder,TUR,FW,Leicester City,23,9,1,281,3.1,0,2,173.0,left,19800000.0,2020.0
+905,Yan Valery,FRA,MF,Southampton,21,3,1,103,1.1,0,0,180.0,right,3300000.0,2020.0
+906,Jamie Vardy,ENG,FW,Leicester City,33,34,31,2840,31.6,15,9,179.0,right,7700000.0,2020.0
+907,Joël Veltman,NED,DF,Brighton,28,28,25,2281,25.3,1,1,184.0,right,6600000.0,2020.0
+908,Jannik Vestergaard,DEN,DF,Southampton,27,30,29,2574,28.6,3,0,199.0,both,19800000.0,2020.0
+909,Rúben Vinagre,POR,DF,Wolves,21,2,1,173,1.9,0,0,174.0,left,5500000.0,2020.0
+910,Carlos Vinícius,BRA,FW,Tottenham,25,9,3,308,3.4,1,0,190.0,left,19800000.0,2020.0
+911,João Virgínia,POR,GK,Everton,20,1,0,48,0.5,0,0,192.0,right,1100000.0,2020.0
+912,Vitinha,POR,MF,Wolves,20,19,5,520,5.8,0,1,172.0,right,7700000.0,2020.0
+913,Jake Vokins,ENG,DF,Southampton,20,1,1,66,0.7,0,0,180.0,left,275000.0,2020.0
+914,Theo Walcott,ENG,FW,Southampton,31,21,20,1618,18.0,3,3,175.0,both,5500000.0,2020.0
+915,Theo Walcott,ENG,FW,Southampton,31,21,20,1618,18.0,3,3,175.0,both,5500000.0,2020.0
+916,Theo Walcott,ENG,FW,Everton,31,1,0,13,0.1,0,0,175.0,both,5500000.0,2020.0
+917,Theo Walcott,ENG,FW,Everton,31,1,0,13,0.1,0,0,175.0,both,5500000.0,2020.0
+918,Kyle Walker,ENG,DF,Manchester City,30,24,22,1946,21.6,1,1,183.0,right,30800000.0,2020.0
+919,Kyle Walker-Peters,ENG,DF,Southampton,23,30,30,2645,29.4,0,2,173.0,right,19800000.0,2020.0
+920,Aaron Wan-Bissaka,ENG,DF,Manchester Utd,22,34,34,3060,34.0,2,4,183.0,right,44000000.0,2020.0
+921,Joel Ward,ENG,DF,Crystal Palace,30,26,25,2256,25.1,0,1,186.0,right,2750000.0,2020.0
+922,James Ward-Prowse,ENG,MF,Southampton,25,38,38,3420,38.0,8,7,177.0,right,33000000.0,2020.0
+923,Ollie Watkins,ENG,FW,Aston Villa,24,37,37,3328,37.0,14,5,180.0,right,35200000.0,2020.0
+924,Caleb Watts,AUS,FW,Southampton,18,3,0,39,0.4,0,0,,right,275000.0,2020.0
+925,Adam Webster,ENG,DF,Brighton,25,29,29,2594,28.8,1,0,190.0,right,19800000.0,2020.0
+926,Danny Welbeck,ENG,FW,Brighton,29,24,17,1545,17.2,6,1,185.0,right,4400000.0,2020.0
+927,Danny Welbeck,ENG,FW,Brighton,29,24,17,1545,17.2,6,1,185.0,right,6050000.0,2020.0
+928,Timo Werner,GER,FW,Chelsea,24,35,29,2602,28.9,6,8,180.0,right,71500000.0,2020.0
+929,Ashley Westwood,ENG,MF,Burnley,30,38,38,3410,37.9,3,3,174.0,right,5500000.0,2020.0
+930,Ben White,ENG,MF,Brighton,22,36,36,3191,35.5,0,0,186.0,right,30800000.0,2020.0
+931,Georginio Wijnaldum,NED,MF,Liverpool,29,38,34,2941,32.7,2,0,175.0,right,33000000.0,2020.0
+932,Brandon Williams,ENG,DF,Manchester Utd,19,4,2,188,2.1,0,0,180.0,right,11000000.0,2020.0
+933,Neco Williams,WAL,DF,Liverpool,19,6,3,249,2.8,0,0,183.0,right,8800000.0,2020.0
+934,Rhys Williams,ENG,DF,Liverpool,19,9,7,661,7.3,0,0,195.0,right,5500000.0,2020.0
+935,Willian,BRA,MF,Arsenal,31,25,16,1406,15.6,1,5,175.0,right,9900000.0,2020.0
+936,Joe Willock,ENG,MF,Arsenal,20,7,2,238,2.6,0,0,186.0,right,17600000.0,2020.0
+937,Joe Willock,ENG,MF,Arsenal,20,7,2,238,2.6,0,0,186.0,right,17600000.0,2020.0
+938,Joe Willock,ENG,MF,Newcastle Utd,20,14,11,978,10.9,8,0,186.0,right,17600000.0,2020.0
+939,Joe Willock,ENG,MF,Newcastle Utd,20,14,11,978,10.9,8,0,186.0,right,17600000.0,2020.0
+940,Callum Wilson,ENG,FW,Newcastle Utd,28,26,23,2084,23.2,12,5,180.0,right,24200000.0,2020.0
+941,Callum Wilson,ENG,FW,Newcastle Utd,28,26,23,2084,23.2,12,5,180.0,right,26400000.0,2020.0
+942,Harry Winks,ENG,MF,Tottenham,24,15,9,861,9.6,0,0,178.0,right,22000000.0,2020.0
+943,Chris Wood,NZL,FW,Burnley,28,33,32,2741,30.5,12,3,191.0,right,8800000.0,2020.0
+944,Granit Xhaka,SUI,DF,Arsenal,27,31,29,2522,28.0,1,2,186.0,left,24200000.0,2020.0
+945,Andriy Yarmolenko,UKR,MF,West Ham,30,15,1,375,4.2,0,1,189.0,left,4400000.0,2020.0
+946,DeAndre Yedlin,USA,DF,Newcastle Utd,27,6,5,436,4.8,0,0,173.0,right,5500000.0,2020.0
+947,Wilfried Zaha,CIV,FW,Crystal Palace,27,30,29,2612,29.0,11,2,180.0,right,49500000.0,2020.0
+948,Andi Zeqiri,SUI,DF,Brighton,21,9,0,171,1.9,0,0,185.0,left,2750000.0,2020.0
+949,Oleksandr Zinchenko,UKR,DF,Manchester City,23,20,15,1478,16.4,0,0,175.0,left,27500000.0,2020.0
+950,Hakim Ziyech,MAR,MF,Chelsea,27,23,15,1172,13.0,2,3,181.0,left,41800000.0,2020.0
+951,Kurt Zouma,FRA,DF,Chelsea,25,24,22,2029,22.5,5,0,190.0,right,35200000.0,2020.0
+952,Martin Ødegaard,NOR,MF,Arsenal,21,14,9,866,9.6,1,2,178.0,left,44000000.0,2020.0
